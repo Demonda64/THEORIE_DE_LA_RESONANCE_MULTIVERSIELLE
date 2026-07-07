@@ -4,7 +4,11 @@ param(
 )
 
 $resolvedRoot = (Resolve-Path $RootPath).Path
-$outFile = [System.IO.Path]::GetFullPath((Join-Path (Split-Path -Parent $MyInvocation.MyCommand.Path) $OutputPath))
+if ([System.IO.Path]::IsPathRooted($OutputPath)) {
+  $outFile = $OutputPath
+} else {
+  $outFile = [System.IO.Path]::GetFullPath((Join-Path $resolvedRoot $OutputPath))
+}
 
 $excludePrefixes = @(
   ".git/",

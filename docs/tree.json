@@ -1,10 +1,10 @@
 ﻿{
-    "generatedAt":  "2026-07-07T10:03:36.4234919Z",
+    "generatedAt":  "2026-07-07T10:04:07.1551975Z",
     "repository":  "Demonda64/THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE",
     "summary":  {
-                    "fileCount":  44,
-                    "folderCount":  15,
-                    "totalBytes":  321310
+                    "fileCount":  45,
+                    "folderCount":  16,
+                    "totalBytes":  366335
                 },
     "folders":  [
                     "..",
@@ -21,7 +21,8 @@
                     "../10_EXPORTS",
                     "../11_COVER",
                     "../docs",
-                    "../TOOLS"
+                    "../TOOLS",
+                    "../TOOLS/docs"
                 ],
     "files":  [
                   {
@@ -38,9 +39,9 @@
                       "path":  "../README.md",
                       "topLevel":  "..",
                       "ext":  ".md",
-                      "size":  86,
-                      "modified":  "2026-07-07T09:58:57.1621338Z",
-                      "excerpt":  "# THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE"
+                      "size":  111,
+                      "modified":  "2026-07-07T10:03:36.8905017Z",
+                      "excerpt":  "# THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE\n\nBibliotheque complete de la TRM avec site de lecture dans docs/."
                   },
                   {
                       "name":  "01_PROJECT_DASHBOARD.md",
@@ -416,9 +417,18 @@
                       "path":  "../TOOLS/generate_trm_manifest.ps1",
                       "topLevel":  "..",
                       "ext":  ".ps1",
-                      "size":  2754,
-                      "modified":  "2026-07-07T10:03:30.5900864Z",
-                      "excerpt":  "param(\n  [string]$RootPath = \"..\",\n  [string]$OutputPath = \"../docs/tree.json\"\n)\n\n$resolvedRoot = (Resolve-Path $RootPath).Path\n$outFile = [System.IO.Path]::GetFullPath((Join-Path (Split-Path -Parent $MyInvocation.MyCommand.Path) $OutputPath))\n\n$excludePrefixes = @(\n  \".git/\",\n  \"docs/\"\n)\n\n$textExtensions = @(\n  \".md\", \".txt\", \".json\", \".yml\", \".yaml\", \".ps1\", \".js\", \".css\", \".html\", \".xml\", \".csv\"\n)\n\n$files = Get-ChildItem -Path $resolvedRoot -Recurse -File\n\n$resultFiles = New-Object System.Collections.Generic.List[object]\n$folderSet = New-Object System.Collections.Generic.HashSet[string]\n\nforeach ($file in $files) {\n  $baseUri = New-Object System.Uri(($resolvedRoot.TrimEnd(\u0027\\\\\u0027) + \u0027\\\\\u0027))\n  $fileUri = New-Object System.Uri($file.FullName)\n  $relativePath = [System.Uri]::UnescapeDataString($baseUri.MakeRelativeUri($fileUri).ToString()).Replace(\"\\\\\", \"/\")\n\n  $skip = $false"
+                      "size":  2811,
+                      "modified":  "2026-07-07T10:03:59.6602679Z",
+                      "excerpt":  "param(\n  [string]$RootPath = \"..\",\n  [string]$OutputPath = \"../docs/tree.json\"\n)\n\n$resolvedRoot = (Resolve-Path $RootPath).Path\nif ([System.IO.Path]::IsPathRooted($OutputPath)) {\n  $outFile = $OutputPath\n} else {\n  $outFile = [System.IO.Path]::GetFullPath((Join-Path $resolvedRoot $OutputPath))\n}\n\n$excludePrefixes = @(\n  \".git/\",\n  \"docs/\"\n)\n\n$textExtensions = @(\n  \".md\", \".txt\", \".json\", \".yml\", \".yaml\", \".ps1\", \".js\", \".css\", \".html\", \".xml\", \".csv\"\n)\n\n$files = Get-ChildItem -Path $resolvedRoot -Recurse -File\n\n$resultFiles = New-Object System.Collections.Generic.List[object]\n$folderSet = New-Object System.Collections.Generic.HashSet[string]\n\nforeach ($file in $files) {\n  $baseUri = New-Object System.Uri(($resolvedRoot.TrimEnd(\u0027\\\\\u0027) + \u0027\\\\\u0027))"
+                  },
+                  {
+                      "name":  "tree.json",
+                      "path":  "../TOOLS/docs/tree.json",
+                      "topLevel":  "..",
+                      "ext":  ".json",
+                      "size":  44943,
+                      "modified":  "2026-07-07T10:03:36.8634957Z",
+                      "excerpt":  "{\n    \"generatedAt\":  \"2026-07-07T10:03:36.4234919Z\",\n    \"repository\":  \"Demonda64/THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE\",\n    \"summary\":  {\n                    \"fileCount\":  44,\n                    \"folderCount\":  15,\n                    \"totalBytes\":  321310\n                },\n    \"folders\":  [\n                    \"..\",\n                    \"../00_HOME\",\n                    \"../01_CONCEPT\",\n                    \"../02_STORY_BIBLE\",\n                    \"../03_CHARACTERS\",\n                    \"../04_WORLD\",\n                    \"../05_OUTLINE\",\n                    \"../06_CHAPTERS\",\n                    \"../07_SCENES\",\n                    \"../08_DRAFTS\",\n                    \"../09_REVISION\",\n                    \"../10_EXPORTS\",\n                    \"../11_COVER\",\n                    \"../docs\",\n                    \"../TOOLS\"\n                ],\n    \"files\":  [\n                  {\n             "
                   }
               ]
 }
