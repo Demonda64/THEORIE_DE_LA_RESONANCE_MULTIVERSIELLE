@@ -605,10 +605,10 @@ Le traite atteint ici sa cloture argumentative. La suite du travail releve des r
 ---
 
 ## Chantiers prioritaires
-1. Produire une edition publication plus fluide a partir de cette version doctrinale.
-2. Relire l'ensemble pour unifier encore le rythme phrastique entre chapitres.
-3. Verifier une derniere fois la stabilite du vocabulaire avec le glossaire officiel.
-4. Chapitres 1 a 15 rediges, harmonises et valides.
+1. Relire l'edition publication pour lisser encore les transitions longues.
+2. Verifier une derniere fois la stabilite du vocabulaire avec le glossaire officiel.
+3. Preparer, si besoin, une version export ou manuscrit continue.
+4. Chapitres 1 a 15 rediges, harmonises, valides et convertis en edition publication.
 
 ---
 
@@ -630,3 +630,4 @@ Le traite atteint ici sa cloture argumentative. La suite du travail releve des r
 - v1.5 : Chapitre 14 redige (Ce que la TRM ne pretend pas dire)
 - v1.6 : Chapitre 15 redige (Objections majeures et reponses internes)
 - v1.7 : harmonisation editoriale transversale effectuee
+- v1.8 : edition publication du traite creee
