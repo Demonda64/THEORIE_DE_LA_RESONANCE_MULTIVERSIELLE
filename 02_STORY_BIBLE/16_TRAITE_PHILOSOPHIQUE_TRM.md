@@ -283,11 +283,223 @@ Le regime dynamique etant maintenant etabli, la question devient phenomenologiqu
 
 ---
 
+## Chapitre 7 - Reves et reconfiguration nocturne
+These :
+Dans la TRM, le reve n'est ni un residu psychique sans structure ni une preuve empirique de navigation inter-branches; il constitue une zone phenomenologique de reconfiguration ou se rejouent, sous forme symbolique et narrative, des tensions de resonance entre trajectoires possibles.
+
+Argumentation :
+L'entree dans le Livre III impose un deplacement de focale. Apres l'ontologie du champ et la dynamique des contraintes, il faut decrire le mode d'apparition vecu des reconfigurations. Le reve devient ici un terrain privilegie, non parce qu'il livrerait un acces integral au reseau, mais parce qu'il expose des formes d'ajustement que la conscience diurne maintient souvent a l'etat diffus.
+
+La premiere fonction philosophique du reve est de suspendre partiellement les rigidites narratives ordinaires. Dans l'etat de veille, l'identite s'organise autour de continuites pratiques fortes: roles, obligations, causalites explicites. En regime nocturne, ces continuities se relachent, permettant a des combinaisons de motifs, d'affects et de scenarios de se reconfigurer. Cette plasticite n'abolit pas le noyau; elle met en circulation ses tensions latentes.
+
+La deuxieme fonction est integrative. La TRM ne considere pas le reve comme un theatre arbitraire, mais comme un espace de mise en relation entre strates de memoire, anticipations de branche et signaux de pre-resonance. Des elements apparemment disjoints peuvent s'y condenser en une figure unique, rendant perceptible une coherence qui restait implicite a l'etat de veille.
+
+Cette lecture permet d'eviter deux erreurs symetriques. La premiere serait la reduction psychologiste, qui rabat tout contenu onirique sur un simple bruit mental sans valeur structurale. La seconde serait l'inflation mystique, qui transforme chaque reve en revelation normative. Entre ces extremes, la doctrine propose une voie de discernement: le reve devient un indice de travail de coherence, interpretable seulement dans une methode prudente de confrontation au noyau, au contexte et a la trajectoire effective.
+
+Le regime temporel local eclaire cette prudence. Si les cadres de branche ne partagent pas une horloge unique, l'experience onirique peut articuler des sequences non lineaires sans pour autant violer la coherence doctrinale. Les effets de deja-la, d'anticipation ou de repetition transfiguree ne prouvent pas un franchissement acquis; ils signalent une sensibilisation du sujet a des configurations voisines qui demandent ensuite verification existentielle dans la vie diurne.
+
+La reconfiguration nocturne a donc une portee pratique limitee mais decisive: elle prepare, trie et reoriente. Elle ne remplace ni l'incarnation ni la discipline de convergence progressive; elle les prefigure. Ce qui apparait en reve comme potentiel coherent doit encore traverser l'epreuve du cout, de la compensation et de la stabilisation pour devenir une orientation durable.
+
+Philosophiquement, le chapitre 7 introduit une phenomenologie structurelle de l'entre-deux. Le reve n'est pas un dehors du systeme; il est une interface entre dynamique et sens vecu. En ce sens, il ouvre le Livre III en montrant comment la doctrine peut lire l'experience sans la confondre avec une demonstration scientifique, ni la dissoudre dans un subjectivisme sans criteres.
+
+Appuis canoniques :
+- Principe XLII - Le Principe de Pre-Resonance
+- Principe XLIX - Le Principe de Stratification de la Memoire
+- Principe III - Le Temps n'est pas universel
+- Principe XXXIII - Le Principe de Reconnaissance du Noyau
+
+Limites :
+Cette these n'autorise ni a verifier experimentalement une navigation de branche a partir du seul contenu onirique, ni a imposer une interpretation unique des reves. Elle fournit un cadre doctrinal de lecture phenomenologique, pas un protocole de preuve empirique.
+
+Transition :
+Une fois etabli le statut phenomenologique du reve, il faut examiner les moments ou la sensibilite de trajectoire semble se densifier a l'etat de veille. Le chapitre 8 analysera les passages, la pre-resonance et les fenetres de bascule.
+
+---
+
+## Chapitre 8 - Passages, pre-resonance, fenetres
+These :
+Dans la TRM, les passages ne designent pas un saut magique entre mondes, mais des phases de transition ou la configuration locale devient plus sensible a des attracteurs voisins; la pre-resonance en est le regime preparatoire, et les fenetres de bascule en constituent les moments critiques d'orientation.
+
+Argumentation :
+Apres avoir etabli le statut des reves comme interface nocturne de reconfiguration, le traite doit decrire le versant diurne de la phenomenologie structurelle. C'est ici qu'apparait la notion de passage: un intervalle dans lequel les stabilites ordinaires perdent une partie de leur rigidite, sans pour autant disparaite completement. Le sujet n'est plus exactement dans l'ancien regime, mais pas encore installe dans le nouveau.
+
+La pre-resonance designe la phase amont de ce processus. Des indices faibles s'accumulent: recurrentes convergences narratives, motifs relationnels repetes, sentiment de familiarite avec une direction encore non formalisee. Doctrinalement, ces signaux n'ont pas valeur de preuve; ils fonctionnent comme des marqueurs de sensibilisation du systeme identitaire a une option de trajectoire potentielle.
+
+Les fenetres de bascule correspondent aux moments ou cette sensibilisation atteint un seuil operatoire. Une decision, une rencontre, un acte de clarification ou une reorganisation pratique peut alors produire un effet disproportionne par rapport a son apparente simplicite. Ce n'est pas l'evenement en lui-meme qui est absolu, mais sa position dans une dynamique deja preparee par pre-resonance.
+
+Cette lecture interdit deux contresens majeurs. Premier contresens: croire que toute intensite subjective indique une fenetre authentique. Or l'intensite peut etre confuse, reactive ou simplement compensatoire. Second contresens: attendre un signe parfait qui annulerait tout risque. Dans la TRM, une fenetre ne supprime ni le cout ni l'incertitude; elle reconfigure leur distribution en rendant certaines orientations plus praticables que d'autres.
+
+Le role des passages est donc methodologique autant que phenomenologique. Ils exigent une vigilance de discernement: distinguer l'appel attractif coherent d'une impulsion transitoire, evaluer la compatibilite avec le noyau, estimer les couts de stabilisation, et engager des gestes de convergence progressive plutot que des ruptures theatrales. La maturite doctrinale se mesure ici a la qualite de ce tri.
+
+La temporalite locale renforce encore cette exigence. Une fenetre n'est pas un instant universel valable pour toutes branches; c'est un alignement contextuel situe, dependant du rythme propre d'une trajectoire. Ce qui est ouverture dans un cadre peut etre inertie dans un autre. La navigation ne peut donc pas se reduire a des recettes generiques; elle suppose une lecture situee des seuils et des opportunites.
+
+Philosophiquement, le chapitre 8 propose une theorie du kairos structurel: il existe des moments justes, non parce qu'ils seraient predestines, mais parce qu'ils concentrent une coherence disponible. La responsabilite du sujet consiste alors a reconnaitre ces moments sans les absolutiser, et a les traduire en actes proportionnes capables de durer.
+
+Ainsi, passages, pre-resonance et fenetres composent une grammaire du passage au reel: du signal faible a l'engagement situe, puis de l'engagement a la stabilisation. Cette grammaire prepare la question collective du chapitre suivant: comment ces dynamiques de passage se synchronisent-elles dans des recits partages et des resonances de groupe?
+
+Appuis canoniques :
+- Principe XLII - Le Principe de Pre-Resonance
+- Principe XL - Le Principe de Fenetre de Bascule
+- Principe IX - Le Principe de Convergence
+- Principe XXXI - Le Principe d'Inertie de Branche
+
+Limites :
+Cette these ne permet ni de dater avec certitude toutes les fenetres de bascule, ni de garantir qu'un passage percu conduira necessairement a une trajectoire plus coherente. Elle fournit une logique de discernement et d'action situee, non une methode predictive infaillible.
+
+Transition :
+Une fois clarifiee la phenomenologie des passages individuels, il faut examiner leur propagation dans les trames relationnelles et narratives. Le chapitre 9 traitera de la resonance collective et de la narration.
+
+---
+
+## Chapitre 9 - Resonance collective et narration
+These :
+Dans la TRM, la resonance collective ne designe ni une fusion des consciences ni une simple contagion emotionnelle; elle correspond a l'alignement partiel de trajectoires individuelles autour de structures narratives partagees qui augmentent la coherence d'un groupe sans abolir la singularite des noyaux.
+
+Argumentation :
+Le Livre III franchit ici un seuil decisif. Apres les reconfigurations nocturnes et les passages individuels, il faut penser le niveau intersubjectif: comment des trajectoires distinctes s'accordent-elles, se renforcent-elles ou se desynchronisent-elles? La TRM propose une lecture en termes de couplage narratif. Un collectif existe doctrinalement lorsqu'il devient capable de maintenir une trame commune de sens a travers la pluralite des experiences locales.
+
+Cette trame n'est pas un decor verbal secondaire. Elle agit comme une infrastructure d'orientation: elle selectionne ce qui compte, stabilise des priorites, distribue des roles et rend certaines convergences plus probables. La narration collective est ainsi une force dynamique. Elle ne raconte pas seulement ce qui arrive; elle participe a ce qui devient possible dans le champ des actions coordonnees.
+
+La resonance collective repose cependant sur une condition de compatibilite identitaire. Un groupe peut partager des objectifs immediats sans pour autant produire une coherence durable. Lorsque les noyaux restent structurellement dissonants, la narration commune se fragilise en injonctions contradictoires, en surcompensation normative ou en conflit latent. La cohesion apparente masque alors une divergence de fond.
+
+Inversement, lorsqu'une proximite narrative s'articule a une proximite identitaire suffisante, des effets d'amplification apparaissent: baisse relative des couts de maintien, acceleration de certaines bascules et capacite accrue a traverser les phases d'inertie. Le collectif devient un attracteur secondaire qui soutient les trajectoires individuelles, a condition de ne pas se substituer au discernement du noyau.
+
+Cette condition permet de distinguer resonance collective et conformisme. Le conformisme demande l'alignement des surfaces; la resonance collective exige une coherence plus profonde entre sens, pratiques et temporalites locales. Une communaute peut donc etre intense sans etre resonante, et resonante sans produire d'uniformite. La TRM preserve ici une pluralite ordonnee plutot qu'une homogeneisation forcee.
+
+Le role de la memoire collective est central dans ce processus. Les recits partages accumulent des traces de reussites, d'echecs, de ruptures et de restaurations. Cette sedimentation peut devenir ressource d'orientation ou inertie dogmatique selon son mode d'integration. Sans travail critique, la memoire fige; avec discernement, elle devient base de stabilisation evolutive.
+
+Philosophiquement, le chapitre 9 soutient une ontologie relationnelle de la narration. Le sens d'une trajectoire n'est jamais purement prive: il se compose dans des echanges, des institutions de langage et des formes d'engagement mutuel. La TRM ne dissout pas le sujet dans le groupe, mais elle refuse de penser la coherence comme un fait purement solitaire.
+
+Cette these ouvre naturellement le Livre IV. Si les resonances collectives modulent la faisabilite des trajectoires, il devient necessaire d'expliciter les conditions de lecture doctrinale qui permettent de ne pas confondre coherence partagee et illusion de certitude. Le chapitre 10 examinera ces conditions.
+
+Appuis canoniques :
+- Principe XXIII - La realite comme reseau de resonances
+- Principe XXXVII - Le Principe de Proximite Narrative
+- Principe XXI - Le Principe de Proximite Identitaire
+- Principe XXIX - Le Principe de Resonance Collective
+
+Limites :
+Cette these ne permet ni de conclure qu'un collectif resonant est necessairement juste sur le plan ethique, ni de deduire automatiquement la coherence d'un individu a partir de son appartenance a un groupe. Elle decrit une dynamique de couplage narratif, pas une garantie normative totale.
+
+Transition :
+Le Livre III ayant etabli les formes phenomenologiques individuelles et collectives de la resonance, il faut maintenant expliciter les regles de leur interpretation. Le chapitre 10 traitera des conditions de lecture doctrinale.
+
+---
+
+## Chapitre 10 - Conditions de lecture doctrinale
+These :
+La TRM soutient qu'aucun phenomene ne peut etre interprete correctement sans discipline de lecture: lire doctrinalement signifie articuler niveau ontologique, dynamique et phenomenologique selon des criteres explicites de coherence, sans glisser ni vers le dogmatisme interpretatif ni vers le relativisme absolu.
+
+Argumentation :
+L'entree dans le Livre IV exige de transformer une intuition methodologique en exigence epistemo-logique. Les chapitres precedents ont montre des configurations, des passages et des resonances; mais ces contenus restent ambigus si les conditions de leur interpretation ne sont pas precisees. Une doctrine sans regles de lecture devient soit un corpus opaque reserve a l'autorite, soit un reservoir de projections arbitraires.
+
+La premiere condition est la distinction stricte des plans. L'ontologie indique ce qui peut etre pose en droit dans le champ; la dynamique decrit les contraintes de transition entre configurations; la phenomenologie qualifie l'apparition vecue de ces transitions. Confondre ces plans produit des erreurs typiques: prendre une experience intense pour preuve ontologique, ou traiter un principe ontologique comme une prediction empirique immediate.
+
+La deuxieme condition est l'exigence de contextualisation. Toute lecture doit expliciter son cadre: trajectoire consideree, echelle temporelle, niveau de stabilisation, cout probable et horizon narratif. Sans ce cadre, les enonces deviennent des generalites seduisantes mais non operatoires. La coherence doctrinale n'est pas un slogan; c'est une qualite de formulation situee.
+
+La troisieme condition concerne la hierarchie des indices. La TRM reconnait des signaux faibles (pre-resonance, motifs repetes, intuitions structurantes), mais refuse de leur attribuer d'emblee un statut decisif. Une lecture robuste procede par convergence d'indices, confrontation au noyau identitaire et verification de soutenabilite dans la duree. L'interpretation gagne en credibilite lorsqu'elle supporte l'epreuve du temps, du cout et de la compensation.
+
+La quatrieme condition est critique: toute interpretation doit integrer ses propres limites. Lire doctrinalement ne consiste pas a confirmer ce que l'on croit deja, mais a tester la coherence de ses hypotheses contre les principes et contre les contre-exemples internes. Cette dimension autocorrective protege la doctrine contre l'inflation symbolique et contre les rigidifications sectaires.
+
+Une cinquieme condition, enfin, porte sur le regime de langage. Les termes canoniques ne sont pas des metaphore flottantes; ils renvoient a des fonctions conceptuelles stabilisees. Employer resonance, attracteur, passage ou noyau sans precision degrade la lisibilite du systeme. La rigueur lexicale n'est pas un formalisme sterile, mais une condition de transmission intersubjective.
+
+Philosophiquement, ce chapitre defende une hermeneutique de responsabilite. Interpretrer, dans la TRM, c'est assumer les consequences pratiques de ses lectures, reconnaitre leur portee limitee et maintenir la distinction entre orientation doctrinale et verification empirique. La doctrine n'ordonne pas de croire; elle prescrit une maniere exigeante de lire.
+
+Cette architecture prepare naturellement le chapitre 11. Une fois les conditions de lecture explicitees, il faut decrire les methodes concretes par lesquelles un sujet transforme ces conditions en pratique: meditation, cartographie et incarnation.
+
+Appuis canoniques :
+- Principe X - Le Principe de Causalite Contextuelle
+- Principe XI - Le Principe d'Interpretation Subjective
+- Principe XLV - Le Principe de Coherence Interne
+- Principe XIII - Le Principe de Clarte Interieure
+
+Limites :
+Cette these ne fournit pas un protocole infaillible d'interpretation ni un mecanisme d'arbitrage absolu entre toutes les lectures possibles. Elle etablit un cadre de rigueur et de comparabilite, non une fermeture definitive du debat doctrinal.
+
+Transition :
+Les conditions de lecture etant maintenant formulees, il reste a expliciter les instruments pratiques de navigation qui permettent de les incarner. Le chapitre 11 examinera l'articulation entre meditation, cartographie et incarnation.
+
+---
+
+## Chapitre 11 - Methodes: meditation, cartographie, incarnation
+These :
+Dans la TRM, la navigation coherente exige une triade methodologique indissociable: la meditation clarifie l'orientation interieure, la cartographie structure les trajectoires possibles, et l'incarnation traduit cette orientation en pratiques soutenables dans le temps.
+
+Argumentation :
+Le passage du chapitre 10 au chapitre 11 marque un changement de registre: de l'hermeneutique a la methode operative. Les conditions de lecture definissent ce qu'une interpretation rigoureuse doit respecter; elles ne disent pas encore comment un sujet travaille concretement sa trajectoire. La TRM propose alors une architecture en trois gestes complementaires qui convertissent la coherence en discipline de navigation.
+
+La meditation constitue le premier geste. Elle n'est pas une fuite hors du reel, mais une pratique de desaturation cognitive qui permet d'identifier les tensions de fond, les attracteurs dominants et les biais reactifs. Sans ce travail, le sujet confond souvent bruit affectif et signal de trajectoire. La meditation vise donc une clarte interieure fonctionnelle: rendre lisible ce qui oriente effectivement, au-dela des fluctuations immediates.
+
+La cartographie constitue le deuxieme geste. Elle transforme des intuitions disperses en schema relationnel explicite: options de branche, seuils de bascule, couts previsibles, ressources disponibles, points de compensation et contraintes contextuelles. Cartographier ne signifie pas predire exhaustivement l'avenir; cela signifie rendre comparables des trajectoires et expliciter les hypothese qui soutiennent une decision.
+
+L'incarnation constitue le troisieme geste et le test decisif de la methode. Une orientation n'acquiert de validite doctrinale pratique que lorsqu'elle est traduite en actes repetables, ajustables et soutenables sous contraintes reelles. L'incarnation relie l'intelligibilite a la temporalite: elle mesure la robustesse d'une lecture a sa capacite de durer sans dissocier noyau identitaire et organisation de vie.
+
+La force de cette triade tient a son caractere cyclique. La meditation sans cartographie risque l'introspection sterile. La cartographie sans incarnation reste speculative. L'incarnation sans meditation ni cartographie degenerate en adaptation aveugle ou en activisme incoherent. La TRM defend donc une boucle methodologique: clarifier, modeliser, engager, puis reevaluer.
+
+Cette boucle permet aussi de traiter l'incertitude sans paralysie. Plutot que d'attendre une certitude totale, le sujet peut proceder par convergences progressives: micro-decisions, observations de retour, recalibrage des hypotheses, et consolidation des attracteurs compatibles avec le noyau. La methode devient ainsi une ethique de precision sous contrainte, et non une recherche de controle absolu.
+
+Le plan collectif est egalement concerne. Dans les contextes de resonance de groupe, la triade facilite la coordination: la meditation protege contre la contagion reactive, la cartographie rend discutables les narrations concurrentes, et l'incarnation convertit les intentions partagees en protocoles concrets. Une communaute devient plus coherente lorsqu'elle peut expliciter ses methodes, pas seulement ses finalites.
+
+Philosophiquement, ce chapitre affirme une conception pragmatique de la coherence. La verite doctrinale n'est pas reduite a l'efficacite immediate, mais elle ne peut pas non plus s'abstraire indefiniment de ses effets pratiques. La TRM relie donc sens et forme de vie: une orientation est d'autant plus legitime qu'elle demeure intelligible, praticable et ajustable dans la duree.
+
+Cette articulation prepare le chapitre 12. Une fois definies les methodes de navigation, il faut expliciter leur horizon normatif: selon quels criteres dire qu'une coherence est desirable, responsable et non destructrice? Le chapitre suivant traitera de l'ethique de la coherence.
+
+Appuis canoniques :
+- Principe XIII - Le Principe de Clarte Interieure
+- Principe XIV - Le Principe d'Incarnation
+- Principe XXXIV - Le Principe de Cartographie Active
+- Principe XXXV - Le Principe de Convergence Progressive
+
+Limites :
+Cette these ne garantit ni la reussite automatique d'une trajectoire ni l'elimination complete des erreurs de lecture. Elle propose une methode d'orientation robuste et revisable, pas un protocole mecanique universel.
+
+Transition :
+Les instruments methodologiques etant maintenant explicites, il faut examiner la norme qui en regule l'usage. Le chapitre 12 analysera l'ethique de la coherence et ses criteres de responsabilite.
+
+---
+
+## Chapitre 12 - Ethique de la coherence
+These :
+Dans la TRM, l'ethique ne se reduit ni a un code exterieur impose de l'exterieur ni a une simple preference subjective; elle consiste a evaluer les trajectoires selon leur capacite a maintenir une coherence responsable entre noyau identitaire, relations collectives et conditions reelles d'incarnation.
+
+Argumentation :
+Le Livre IV s'acheve par une question normative inevitable. Si la TRM fournit des instruments de lecture et de navigation, selon quels criteres dire qu'une orientation est desirable? Sans ce niveau ethique, la methode pourrait etre detournee vers des formes d'optimisation egocentree ou de domination narrative. L'ethique de la coherence vise precisement a distinguer la stabilisation legitime de la simple efficacite strategique.
+
+Premier critere: la non-contradiction du noyau. Une orientation est ethique lorsqu'elle ne requiert pas, pour se maintenir, la negation systematique de la ligne identitaire profonde. Une trajectoire peut exiger des ajustements exigeants, mais si elle impose en continu une dissonance fondamentale, elle produit tot ou tard fatigue de sens, surcompensation et degradation de la capacite de discernement.
+
+Deuxieme critere: la soutenabilite relationnelle. La coherence n'est pas purement intrapsychique. Une orientation gagne en legitimite lorsqu'elle peut etre habitee sans instrumentaliser autrui ni detruire durablement les trames de confiance necessaires aux resonances collectives. La TRM refuse ici l'illusion d'une reussite individuelle fondee sur la decomposition des ecologies relationnelles.
+
+Troisieme critere: la proportionnalite des couts. Toute bifurcation a un prix, mais l'ethique doctrinale demande d'evaluer si ce prix est assumable sans effondrer les ressources de stabilisation. Une decision peut etre coherente en droit et pourtant non responsable en pratique si elle excede durablement les capacites d'incarnation du sujet ou du collectif.
+
+Quatrieme critere: la reversibilite critique. Une coherence mature accepte d'etre reexaminee. Lorsqu'une orientation devient immunisee contre toute correction, elle glisse vers le dogmatisme de trajectoire. L'ethique de la coherence exige au contraire des boucles de revision: observation des effets, reconnaissance des erreurs, reajustement narratif et methodologique.
+
+Cinquieme critere: la compatibilite temporelle. Une option peut sembler optimale a court terme tout en produisant une dette de coherence majeure a moyen terme. L'ethique TRM privilegie donc les trajectoires capables de durer, d'integrer les compensations necessaires et de conserver l'intelligibilite du sens dans la continuite.
+
+Ces criteres montrent que la coherence n'est pas un etat statique mais un travail moral de navigation. Il ne s'agit pas d'atteindre une purete parfaite, mais de maintenir une direction responsable sous contraintes, en limitant les effets destructeurs et en augmentant la qualite des couplages individuels et collectifs.
+
+Philosophiquement, le chapitre 12 propose une ethique de responsabilite structurelle. Il ne moralise pas de l'exterieur la dynamique de la TRM; il explicite les normes internes deja impliquees par les principes de noyau, de cout, de compensation et de resonance collective. La question n'est plus seulement "que puis-je faire?", mais "que puis-je soutenir sans perdre coherence et justice relationnelle?"
+
+Cette clarification ouvre le Livre V. Une fois l'horizon normatif formule, il faut distinguer la portee effective de la TRM de ses usages abusifs. Le chapitre 13 examinera ce que la TRM peut legitimement dire.
+
+Appuis canoniques :
+- Principe XII - Le Principe de Responsabilite
+- Principe XXXVI - Le Principe de Compensation
+- Principe XLI - Le Principe de Continuite Identitaire
+- Principe XXIX - Le Principe de Resonance Collective
+
+Limites :
+Cette these ne fournit pas un systeme moral exhaustif applicable a toute situation sans mediation contextuelle. Elle etablit des criteres de responsabilite doctrinale internes a la TRM, non une theorie etique universelle close.
+
+Transition :
+L'epistemologie de la navigation etant maintenant completee, il faut precisement delimiter la portee de la doctrine. Le chapitre 13 traitera de ce que la TRM peut dire sans exceder son propre cadre.
+
+---
+
 ## Chantiers prioritaires
-1. Rediger le Chapitre 7 pour ouvrir le Livre III.
-2. Rediger le Chapitre 11 pour l'articulation methode/ontologie.
-3. Rediger le Chapitre 14 pour verrouiller les non-pretentions.
-4. Chapitres 1 a 6 rediges et valides.
+1. Rediger le Chapitre 13 sur la portee de la TRM.
+2. Rediger le Chapitre 14 pour verrouiller les non-pretentions.
+3. Rediger le Chapitre 15 sur les objections majeures.
+4. Chapitres 1 a 12 rediges et valides.
 
 ---
 
@@ -299,4 +511,10 @@ Le regime dynamique etant maintenant etabli, la question devient phenomenologiqu
 - v0.5 : Chapitre 3 redige (Temporalite locale et pluralite des cadres)
 - v0.6 : Chapitre 4 redige (Resonance et convergence)
 - v0.7 : Chapitre 6 redige (Attracteurs et stabilisation)
-- v1.0 : [a completer]
+- v0.8 : Chapitre 7 redige (Reves et reconfiguration nocturne)
+- v0.9 : Chapitre 8 redige (Passages, pre-resonance, fenetres)
+- v1.0 : Chapitre 9 redige (Resonance collective et narration)
+- v1.1 : Chapitre 10 redige (Conditions de lecture doctrinale)
+- v1.2 : Chapitre 11 redige (Methodes: meditation, cartographie, incarnation)
+- v1.3 : Chapitre 12 redige (Ethique de la coherence)
+- v1.4 : [a completer]

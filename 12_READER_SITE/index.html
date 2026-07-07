@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TRM Social Reader</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-wrap">
+      <div class="brand-dot"></div>
+      <h1>TRM Social</h1>
+      <p>Reader local intelligent</p>
+    </div>
+
+    <div class="search-wrap">
+      <input id="globalSearch" type="search" placeholder="Rechercher un fichier, un dossier, une extension..." />
+    </div>
+
+    <div class="top-actions">
+      <button class="pill ghost" id="focusFeedBtn">Focus fichiers</button>
+      <button class="pill" id="connectFolderBtn">Connecter dossier</button>
+      <input id="folderInput" type="file" webkitdirectory directory multiple hidden />
+    </div>
+  </header>
+
+  <main class="shell">
+    <aside class="left-col card">
+      <h2>Dossiers</h2>
+      <nav class="menu" id="domainMenu"></nav>
+
+      <section class="quick-stats">
+        <h3>Vue rapide</h3>
+        <p id="statsLine">Aucun dossier connecte</p>
+      </section>
+    </aside>
+
+    <section class="feed-col" id="feedArea">
+      <article class="composer card">
+        <h2>Explorateur de fichiers TRM</h2>
+        <p class="helper">But principal: avoir acces rapidement aux fichiers locaux. Clique sur Connecter dossier, puis filtre et ouvre les fichiers.</p>
+        <div class="composer-actions">
+          <select id="extFilter">
+            <option value="">Toutes extensions</option>
+          </select>
+          <select id="sortMode">
+            <option value="name">Tri: nom</option>
+            <option value="recent">Tri: plus recents</option>
+            <option value="size">Tri: taille</option>
+          </select>
+          <button id="clearBtn">Vider</button>
+        </div>
+      </section>
+
+      <section id="feedList" class="feed-list"></section>
+    </section>
+
+    <aside class="right-col card">
+      <section>
+        <h2>Mode d emploi</h2>
+        <ul class="assist-list">
+          <li>Clique Connecter dossier pour charger tes fichiers locaux</li>
+          <li>Raccourci / pour focus recherche</li>
+          <li>Bouton Ouvrir pour lancer le fichier</li>
+          <li>Bouton Apercu pour lire le contenu texte</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Extensions</h2>
+        <div id="trendList" class="trend-list"></div>
+      </section>
+
+      <section>
+        <h2>Recents</h2>
+        <div id="suggestList" class="suggest-list"></div>
+      </section>
+    </aside>
+  </main>
+
+  <dialog id="previewDialog" class="preview-dialog">
+    <article>
+      <header>
+        <h3 id="previewTitle">Apercu fichier</h3>
+        <button id="closePreviewBtn" class="pill ghost">Fermer</button>
+      </header>
+      <p id="previewMeta" class="preview-meta"></p>
+      <pre id="previewBody"></pre>
+    </article>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>
