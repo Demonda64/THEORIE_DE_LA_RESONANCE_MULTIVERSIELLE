@@ -1,13 +1,15 @@
 ﻿{
-    "generatedAt":  "2026-07-07T10:04:07.1551975Z",
+    "generatedAt":  "2026-07-07T10:24:32.6219138Z",
     "repository":  "Demonda64/THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE",
     "summary":  {
-                    "fileCount":  45,
-                    "folderCount":  16,
-                    "totalBytes":  366335
+                    "fileCount":  46,
+                    "folderCount":  17,
+                    "totalBytes":  368489
                 },
     "folders":  [
                     "..",
+                    "../.github",
+                    "../.github/workflows",
                     "../00_HOME",
                     "../01_CONCEPT",
                     "../02_STORY_BIBLE",
@@ -21,8 +23,7 @@
                     "../10_EXPORTS",
                     "../11_COVER",
                     "../docs",
-                    "../TOOLS",
-                    "../TOOLS/docs"
+                    "../TOOLS"
                 ],
     "files":  [
                   {
@@ -42,6 +43,15 @@
                       "size":  111,
                       "modified":  "2026-07-07T10:03:36.8905017Z",
                       "excerpt":  "# THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE\n\nBibliotheque complete de la TRM avec site de lecture dans docs/."
+                  },
+                  {
+                      "name":  "pages.yml",
+                      "path":  "../.github/workflows/pages.yml",
+                      "topLevel":  "..",
+                      "ext":  ".yml",
+                      "size":  835,
+                      "modified":  "2026-07-07T10:22:35.4599736Z",
+                      "excerpt":  "name: Deploy TRM Site\n\non:\n  push:\n    branches: [\"main\"]\n    paths:\n      - \"docs/**\"\n      - \".github/workflows/pages.yml\"\n  workflow_dispatch:\n\npermissions:\n  contents: read\n  pages: write\n  id-token: write\n\nconcurrency:\n  group: pages\n  cancel-in-progress: true\n\njobs:\n  deploy:\n    environment:\n      name: github-pages\n      url: ${{ steps.deployment.outputs.page_url }}\n    runs-on: ubuntu-latest\n    steps:\n      - name: Checkout\n        uses: actions/checkout@v4"
                   },
                   {
                       "name":  "01_PROJECT_DASHBOARD.md",
@@ -413,22 +423,22 @@
                       "excerpt":  ":root {\n  --bg: #0b1720;\n  --bg-2: #0f2230;\n  --panel: rgba(10, 28, 39, 0.82);\n  --ink: #eaf4f6;\n  --muted: #97b2bc;\n  --line: rgba(152, 194, 206, 0.2);\n  --accent: #f6b73c;\n  --accent-2: #39c2b3;\n  --danger: #ff7f6b;\n}\n\n* {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n  min-height: 100vh;\n  color: var(--ink);\n  background: radial-gradient(circle at 20% 20%, #103146 0%, transparent 40%), radial-gradient(circle at 85% 15%, #4a2b18 0%, transparent 45%), linear-gradient(160deg, var(--bg), var(--bg-2));\n  font-family: \"Space Grotesk\", sans-serif;\n}\n\n.bg-orb {\n  position: fixed;\n  border-radius: 50%;\n  filter: blur(70px);"
                   },
                   {
+                      "name":  "tree.json",
+                      "path":  "../docs/tree.json",
+                      "topLevel":  "..",
+                      "ext":  ".json",
+                      "size":  46262,
+                      "modified":  "2026-07-07T10:04:07.2101985Z",
+                      "excerpt":  "{\n    \"generatedAt\":  \"2026-07-07T10:04:07.1551975Z\",\n    \"repository\":  \"Demonda64/THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE\",\n    \"summary\":  {\n                    \"fileCount\":  45,\n                    \"folderCount\":  16,\n                    \"totalBytes\":  366335\n                },\n    \"folders\":  [\n                    \"..\",\n                    \"../00_HOME\",\n                    \"../01_CONCEPT\",\n                    \"../02_STORY_BIBLE\",\n                    \"../03_CHARACTERS\",\n                    \"../04_WORLD\",\n                    \"../05_OUTLINE\",\n                    \"../06_CHAPTERS\",\n                    \"../07_SCENES\",\n                    \"../08_DRAFTS\",\n                    \"../09_REVISION\",\n                    \"../10_EXPORTS\",\n                    \"../11_COVER\",\n                    \"../docs\",\n                    \"../TOOLS\",\n                    \"../TOOLS/docs\"\n                ],\n    \"files\":"
+                  },
+                  {
                       "name":  "generate_trm_manifest.ps1",
                       "path":  "../TOOLS/generate_trm_manifest.ps1",
                       "topLevel":  "..",
                       "ext":  ".ps1",
                       "size":  2811,
-                      "modified":  "2026-07-07T10:03:59.6602679Z",
+                      "modified":  "2026-07-07T10:04:06.7822029Z",
                       "excerpt":  "param(\n  [string]$RootPath = \"..\",\n  [string]$OutputPath = \"../docs/tree.json\"\n)\n\n$resolvedRoot = (Resolve-Path $RootPath).Path\nif ([System.IO.Path]::IsPathRooted($OutputPath)) {\n  $outFile = $OutputPath\n} else {\n  $outFile = [System.IO.Path]::GetFullPath((Join-Path $resolvedRoot $OutputPath))\n}\n\n$excludePrefixes = @(\n  \".git/\",\n  \"docs/\"\n)\n\n$textExtensions = @(\n  \".md\", \".txt\", \".json\", \".yml\", \".yaml\", \".ps1\", \".js\", \".css\", \".html\", \".xml\", \".csv\"\n)\n\n$files = Get-ChildItem -Path $resolvedRoot -Recurse -File\n\n$resultFiles = New-Object System.Collections.Generic.List[object]\n$folderSet = New-Object System.Collections.Generic.HashSet[string]\n\nforeach ($file in $files) {\n  $baseUri = New-Object System.Uri(($resolvedRoot.TrimEnd(\u0027\\\\\u0027) + \u0027\\\\\u0027))"
-                  },
-                  {
-                      "name":  "tree.json",
-                      "path":  "../TOOLS/docs/tree.json",
-                      "topLevel":  "..",
-                      "ext":  ".json",
-                      "size":  44943,
-                      "modified":  "2026-07-07T10:03:36.8634957Z",
-                      "excerpt":  "{\n    \"generatedAt\":  \"2026-07-07T10:03:36.4234919Z\",\n    \"repository\":  \"Demonda64/THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE\",\n    \"summary\":  {\n                    \"fileCount\":  44,\n                    \"folderCount\":  15,\n                    \"totalBytes\":  321310\n                },\n    \"folders\":  [\n                    \"..\",\n                    \"../00_HOME\",\n                    \"../01_CONCEPT\",\n                    \"../02_STORY_BIBLE\",\n                    \"../03_CHARACTERS\",\n                    \"../04_WORLD\",\n                    \"../05_OUTLINE\",\n                    \"../06_CHAPTERS\",\n                    \"../07_SCENES\",\n                    \"../08_DRAFTS\",\n                    \"../09_REVISION\",\n                    \"../10_EXPORTS\",\n                    \"../11_COVER\",\n                    \"../docs\",\n                    \"../TOOLS\"\n                ],\n    \"files\":  [\n                  {\n             "
                   }
               ]
 }
