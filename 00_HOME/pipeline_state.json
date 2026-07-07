@@ -1,0 +1,83 @@
+{
+  "current_phase": "01 Concept",
+  "phases": [
+    {
+      "id": "01",
+      "name": "01 Concept",
+      "status": "todo",
+      "required_files": [
+        "01_CONCEPT/CONCEPT.md",
+        "00_HOME/PROJECT_DASHBOARD.md"
+      ]
+    },
+    {
+      "id": "02",
+      "name": "02 Story Bible",
+      "status": "todo",
+      "required_files": [
+        "02_STORY_BIBLE/CONTINUITY.md",
+        "02_STORY_BIBLE/STYLE_GUIDE.md",
+        "03_CHARACTERS/CHARACTER_INDEX.md",
+        "04_WORLD/WORLD_NOTES.md"
+      ]
+    },
+    {
+      "id": "03",
+      "name": "03 Outline",
+      "status": "todo",
+      "required_files": [
+        "05_OUTLINE/SYNOPSIS.md",
+        "05_OUTLINE/CHAPTER_MAP.md"
+      ]
+    },
+    {
+      "id": "04",
+      "name": "04 Draft 01",
+      "status": "todo",
+      "required_files": [
+        "06_CHAPTERS/CHAPTER_01.md",
+        "08_DRAFTS/DRAFT_01.md",
+        "02_STORY_BIBLE/CONTINUITY.md"
+      ]
+    },
+    {
+      "id": "05",
+      "name": "05 Developmental Revision",
+      "status": "todo",
+      "required_files": [
+        "09_REVISION/REVISION_PLAN.md",
+        "05_OUTLINE/CHAPTER_MAP.md",
+        "08_DRAFTS/DRAFT_01.md"
+      ]
+    },
+    {
+      "id": "06",
+      "name": "06 Draft 02",
+      "status": "todo",
+      "required_files": [
+        "08_DRAFTS/DRAFT_02.md",
+        "09_REVISION/REVISION_PLAN.md"
+      ]
+    },
+    {
+      "id": "07",
+      "name": "07 Line Edit and Continuity",
+      "status": "todo",
+      "required_files": [
+        "08_DRAFTS/DRAFT_02.md",
+        "02_STORY_BIBLE/CONTINUITY.md",
+        "02_STORY_BIBLE/STYLE_GUIDE.md"
+      ]
+    },
+    {
+      "id": "08",
+      "name": "08 Export",
+      "status": "todo",
+      "required_files": [
+        "10_EXPORTS/EXPORT_CHECKLIST.md",
+        "08_DRAFTS/DRAFT_02.md",
+        "11_COVER/COVER_BRIEF.md"
+      ]
+    }
+  ]
+}

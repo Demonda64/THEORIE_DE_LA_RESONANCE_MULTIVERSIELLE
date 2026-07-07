@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "T001",
+      "phase": "01 Concept",
+      "title": "Fill the core concept",
+      "status": "todo",
+      "file": "01_CONCEPT/CONCEPT.md"
+    },
+    {
+      "id": "T002",
+      "phase": "01 Concept",
+      "title": "Define the next action",
+      "status": "todo",
+      "file": "00_HOME/NEXT_ACTION.md"
+    }
+  ]
+}

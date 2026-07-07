@@ -1,0 +1,15 @@
+{
+  "title": "[TITLE]",
+  "slug": "[SLUG]",
+  "genre": "[GENRE]",
+  "audience": "[AUDIENCE]",
+  "phase": "01 Concept",
+  "draft": "00",
+  "word_count": 0,
+  "current_chapter": "",
+  "current_scene": "",
+  "last_session": "",
+  "next_action": "Fill 01_CONCEPT/CONCEPT.md",
+  "blocked": false,
+  "blockers": []
+}

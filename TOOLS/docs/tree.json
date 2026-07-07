@@ -1,0 +1,424 @@
+﻿{
+    "generatedAt":  "2026-07-07T10:03:36.4234919Z",
+    "repository":  "Demonda64/THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE",
+    "summary":  {
+                    "fileCount":  44,
+                    "folderCount":  15,
+                    "totalBytes":  321310
+                },
+    "folders":  [
+                    "..",
+                    "../00_HOME",
+                    "../01_CONCEPT",
+                    "../02_STORY_BIBLE",
+                    "../03_CHARACTERS",
+                    "../04_WORLD",
+                    "../05_OUTLINE",
+                    "../06_CHAPTERS",
+                    "../07_SCENES",
+                    "../08_DRAFTS",
+                    "../09_REVISION",
+                    "../10_EXPORTS",
+                    "../11_COVER",
+                    "../docs",
+                    "../TOOLS"
+                ],
+    "files":  [
+                  {
+                      "name":  "01_README.md",
+                      "path":  "../01_README.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  400,
+                      "modified":  "2026-07-01T02:21:06.0162649Z",
+                      "excerpt":  "# Théorie de la Résonance Multiversielle\n\n## Projet\nCe dossier suit la structure du template book pour organiser la construction d\u0027un livre autour de la Théorie de la Résonance Multiversielle.\n\n## Objectif\nTransformer la TRM en une œuvre cohérente, avec :\n- un concept central clair ;\n- une promesse lecteur explicite ;\n- une structure de livre possible ;\n- des axes de développement pour la suite."
+                  },
+                  {
+                      "name":  "README.md",
+                      "path":  "../README.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  86,
+                      "modified":  "2026-07-07T09:58:57.1621338Z",
+                      "excerpt":  "# THEORIE_DE_LA_RESONANCE_MULTIVERSIELLE"
+                  },
+                  {
+                      "name":  "01_PROJECT_DASHBOARD.md",
+                      "path":  "../00_HOME/01_PROJECT_DASHBOARD.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  733,
+                      "modified":  "2026-07-01T02:21:06.0232656Z",
+                      "excerpt":  "# PROJECT DASHBOARD\n\n## Identité\n- Titre : Théorie de la Résonance Multiversielle\n- Genre : Philosophie / Cosmologie spéculative\n- Public : Adultes intellectuels\n- Phase : Concept\n- Draft : 00\n\n## Pitch Court\nUn livre philosophique et spéculatif qui propose une cosmologie de la réalité, de la conscience et des trajectoires possibles.\n\n## Promesse Lecteur\nComprendre une vision cohérente du réel où les vies ne sont pas des créations isolées, mais des convergences progressives vers des branches déjà présentes d\u0027un réseau vivant.\n\n## Objectif De La Semaine\nFormaliser le concept principal et préparer une première structure éditoriale.\n\n## Prochaine Action\nRédiger la version de travail du concept et les grandes lignes du livre."
+                  },
+                  {
+                      "name":  "02_NEXT_ACTION.md",
+                      "path":  "../00_HOME/02_NEXT_ACTION.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  556,
+                      "modified":  "2026-07-07T08:02:17.8170429Z",
+                      "excerpt":  "# NEXT ACTION\n\n## A Faire Maintenant\nVerifier le DAG global apres arbitrage E01 a E05 et confirmer l\u0027absence de nouveaux cycles.\n\n## Fichier A Ouvrir\n02_STORY_BIBLE/ARBITRAGE_CYCLES_CANON2_DAG.md\n\n## Objectif En 30 Minutes\nValider que la table de reconstruction mise a jour ne contient plus aucune boucle logique.\n\n## Ne Pas Oublier\nNe pas modifier l\u0027architecture conceptuelle pendant cette phase. Logger les ecarts sans rouvrir le cadre.\n\n## A Noter Apres La Session\nValider une version de reconstruction sans cycle avant ouverture de la phase Canon 2.0."
+                  },
+                  {
+                      "name":  "03_SESSION_LOG.md",
+                      "path":  "../00_HOME/03_SESSION_LOG.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  127,
+                      "modified":  "2026-05-07T20:31:12.8877977Z",
+                      "excerpt":  "# SESSION LOG\n\n| Date | Travail fait | Mots | Decisions | Prochaine action |\n| --- | --- | ---: | --- | --- |\n|  |  |  |  |  |"
+                  },
+                  {
+                      "name":  "agent_log.json",
+                      "path":  "../00_HOME/agent_log.json",
+                      "topLevel":  "..",
+                      "ext":  ".json",
+                      "size":  23,
+                      "modified":  "2026-05-07T20:41:32.5585581Z",
+                      "excerpt":  "{\n  \"agent_runs\": []\n}"
+                  },
+                  {
+                      "name":  "pipeline_state.json",
+                      "path":  "../00_HOME/pipeline_state.json",
+                      "topLevel":  "..",
+                      "ext":  ".json",
+                      "size":  1840,
+                      "modified":  "2026-05-07T22:01:13.3616461Z",
+                      "excerpt":  "{\n  \"current_phase\": \"01 Concept\",\n  \"phases\": [\n    {\n      \"id\": \"01\",\n      \"name\": \"01 Concept\",\n      \"status\": \"todo\",\n      \"required_files\": [\n        \"01_CONCEPT/CONCEPT.md\",\n        \"00_HOME/PROJECT_DASHBOARD.md\"\n      ]\n    },\n    {\n      \"id\": \"02\",\n      \"name\": \"02 Story Bible\",\n      \"status\": \"todo\",\n      \"required_files\": [\n        \"02_STORY_BIBLE/CONTINUITY.md\",\n        \"02_STORY_BIBLE/STYLE_GUIDE.md\",\n        \"03_CHARACTERS/CHARACTER_INDEX.md\",\n        \"04_WORLD/WORLD_NOTES.md\"\n      ]\n    },\n    {\n      \"id\": \"03\",\n      \"name\": \"03 Outline\",\n      \"status\": \"todo\",\n      \"required_files\": ["
+                  },
+                  {
+                      "name":  "project_state.json",
+                      "path":  "../00_HOME/project_state.json",
+                      "topLevel":  "..",
+                      "ext":  ".json",
+                      "size":  311,
+                      "modified":  "2026-05-07T20:41:32.3984929Z",
+                      "excerpt":  "{\n  \"title\": \"[TITLE]\",\n  \"slug\": \"[SLUG]\",\n  \"genre\": \"[GENRE]\",\n  \"audience\": \"[AUDIENCE]\",\n  \"phase\": \"01 Concept\",\n  \"draft\": \"00\",\n  \"word_count\": 0,\n  \"current_chapter\": \"\",\n  \"current_scene\": \"\",\n  \"last_session\": \"\",\n  \"next_action\": \"Fill 01_CONCEPT/CONCEPT.md\",\n  \"blocked\": false,\n  \"blockers\": []\n}"
+                  },
+                  {
+                      "name":  "tasks.json",
+                      "path":  "../00_HOME/tasks.json",
+                      "topLevel":  "..",
+                      "ext":  ".json",
+                      "size":  350,
+                      "modified":  "2026-05-07T20:41:32.5155601Z",
+                      "excerpt":  "{\n  \"tasks\": [\n    {\n      \"id\": \"T001\",\n      \"phase\": \"01 Concept\",\n      \"title\": \"Fill the core concept\",\n      \"status\": \"todo\",\n      \"file\": \"01_CONCEPT/CONCEPT.md\"\n    },\n    {\n      \"id\": \"T002\",\n      \"phase\": \"01 Concept\",\n      \"title\": \"Define the next action\",\n      \"status\": \"todo\",\n      \"file\": \"00_HOME/NEXT_ACTION.md\"\n    }\n  ]\n}"
+                  },
+                  {
+                      "name":  "01_CONCEPT.md",
+                      "path":  "../01_CONCEPT/01_CONCEPT.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  1626,
+                      "modified":  "2026-07-01T02:21:06.0202628Z",
+                      "excerpt":  "# CONCEPT\n\n## Titre\nThéorie de la Résonance Multiversielle\n\n## Genre\nPhilosophie / Cosmologie spéculative\n\n## Public\nAdultes intellectuels\n\n## Logline\nUne cosmologie philosophique qui cherche à expliquer pourquoi une conscience expérimente une réalité particulière parmi un ensemble potentiellement infini de réalités cohérentes.\n\n## Premise\nLa Théorie de la Résonance Multiversielle (TRM) suppose que toutes les réalités compatibles avec les lois fondamentales existent au sein d\u0027un Réseau Vivant, et que chaque conscience n\u0027en expérimente qu\u0027une trajectoire à un instant donné.\n\nSelon cette hypothèse, une conscience ne crée pas les réalités qu\u0027elle expérimente : elle entre progressivement en résonance avec certaines branches du Réseau Vivant, en fonction de son état global.\n\n## Promesse Lecteur\nLe lecteur découvrira un cadre conceptuel permettant de penser ensemble la nature du réel, l\u0027identi"
+                  },
+                  {
+                      "name":  "01_CONTINUITY.md",
+                      "path":  "../02_STORY_BIBLE/01_CONTINUITY.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  3397,
+                      "modified":  "2026-07-07T08:18:47.4653504Z",
+                      "excerpt":  "# CONTINUITY\n\n## Canon\nTout ce qui est vrai dans le livre.\n\n| Element | Verite etablie | Source | Notes |\n| --- | --- | --- | --- |\n| Canon officiel TRM | Le cadre conceptuel de la TRM est dÃ©fini comme une cosmologie philosophique spÃ©culative, non scientifique. | [CANON_OFFICIEL_49_FICHES_COMPLETES.md](05_CANON_OFFICIEL_49_FICHES_COMPLETES.md) | RÃ©fÃ©rence centrale du livre. |\n| RÃ©seau Vivant | Le rÃ©el est pensÃ© comme un rÃ©seau dynamique de branches, de rÃ©sonances et de convergences. | [CANON_OFFICIEL_49_FICHES_COMPLETES.md](05_CANON_OFFICIEL_49_FICHES_COMPLETES.md) | Principe fondamental du systÃ¨me. |\n| Noyau Identitaire | L\u0027identitÃ© possÃ¨de une structure profonde partagÃ©e par les variantes. | [CANON_OFFICIEL_49_FICHES_COMPLETES.md](05_CANON_OFFICIEL_49_FICHES_COMPLETES.md) | Fondement identitaire du rÃ©cit philosophique. |\n\n## Chronologie\n\n| Moment | Evenement | Chapitre | "
+                  },
+                  {
+                      "name":  "02_ARBITRAGE_CYCLES_CANON2_DAG.md",
+                      "path":  "../02_STORY_BIBLE/02_ARBITRAGE_CYCLES_CANON2_DAG.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  4342,
+                      "modified":  "2026-07-07T08:03:02.7508607Z",
+                      "excerpt":  "# Arbitrage des cycles du Canon 2.0\n\n## E01\n\n### Cycle detecte\n\nXX -\u003e XXI -\u003e XX\n\n### Analyse\n\nLa boucle apparait parce que la Resonance Mutuelle (XX) et la Proximite Identitaire (XXI) sont posees comme causes reciproques. Chacun est utilise comme condition de preuve de l\u0027autre.\n\n### Principe racine\n\nXXI (Proximite Identitaire) est premier.\n\nJustification.\nLa proximite identitaire exprime une condition structurale de liaison (noyau + resonance), tandis que la resonance mutuelle exprime l\u0027effet relationnel de cette condition.\n\n### Reorganisation\n\nXXI\nâ†“\nXX\n\n### Verification\n\nLe cycle est-il totalement supprime ?"
+                  },
+                  {
+                      "name":  "03_AUDIT_49_PRINCIPES.md",
+                      "path":  "../02_STORY_BIBLE/03_AUDIT_49_PRINCIPES.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  11637,
+                      "modified":  "2026-07-01T02:45:29.2519672Z",
+                      "excerpt":  "# Audit des 49 principes\n\n## Objectif\nCe document ne sert plus seulement Ã  trier des formulations. Il sert Ã  produire un audit de type dÃ©monstratif.\n\nPour chaque principe, on rÃ©pond Ã  la question suivante :\n- est-ce un principe fondamental ?\n- ou un corollaire d\u0027un autre principe ?\n- ou un thÃ©orÃ¨me de dynamique ?\n- ou une dÃ©finition de cadre ?\n\n## MÃ©thode d\u0027audit\nChaque dÃ©cision suit la mÃªme structure logique :\n\n1. HypothÃ¨se : on suppose que le principe pourrait Ãªtre fondamental.\n2. DÃ©duction : on vÃ©rifie s\u0027il dÃ©pend d\u0027un autre principe dÃ©jÃ  admis.\n3. Autonomie : on vÃ©rifie s\u0027il peut exister sans ce principe antÃ©rieur.\n4. Conclusion : on l\u0027affecte Ã  l\u0027une des quatre catÃ©gories suivantes.\n\n### CatÃ©gories retenues\n- Principe fondamental : axiome de structure du systÃ¨me.\n- Corollaire : proposition dÃ©rivÃ©e d\u0027un principe plus gÃ©nÃ©ral.\n- ThÃ©orÃ¨me : rÃ©sultat de dy"
+                  },
+                  {
+                      "name":  "04_AUDIT_LOGIQUE_CANON_V1_4.md",
+                      "path":  "../02_STORY_BIBLE/04_AUDIT_LOGIQUE_CANON_V1_4.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  35281,
+                      "modified":  "2026-07-01T02:46:14.0355272Z",
+                      "excerpt":  "# Audit logique complet du Canon Officiel v1.4\n\n## Objectif\nCe document rÃ©alise un audit logique du Canon Officiel v1.4 sans le rÃ©Ã©crire, sans le simplifier et sans le modifier. Il s\u0027agit uniquement d\u0027identifier la structure interne de la thÃ©orie Ã  partir des 49 principes tels qu\u0027ils sont formulÃ©s.\n\n## RÃ¨gle de travail\nL\u0027analyse est strictement fondÃ©e sur le Canon Officiel v1.4. Aucun concept n\u0027est inventÃ©, supprimÃ©, fusionnÃ© ou reformulÃ© ici. Les jugements portent uniquement sur le rÃ´le logique de chaque principe dans l\u0027ensemble.\n\n## Correction mÃ©thodologique\nCet audit a validÃ© une conclusion importante : les 49 principes ne sont pas tous des lois. Ils comportent aussi des dÃ©finitions, des mÃ©thodes, des phÃ©nomÃ¨nes, des rÃ´les et des outils. Cette distinction est utile, mais elle ne suffit pas encore Ã  fonder un Canon 2.0.\n\nLe point restant Ã  corriger est plus profon"
+                  },
+                  {
+                      "name":  "05_CANON_OFFICIEL_49_FICHES_COMPLETES.md",
+                      "path":  "../02_STORY_BIBLE/05_CANON_OFFICIEL_49_FICHES_COMPLETES.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  56864,
+                      "modified":  "2026-07-01T02:25:15.1671129Z",
+                      "excerpt":  "# Canon Officiel - 49 Fiches ComplÃ¨tes\n\n## Statut\nDocument de rÃ©fÃ©rence dÃ©taillÃ© pour le Canon Officiel de la ThÃ©orie de la RÃ©sonance Multiversielle - Version 1.4.\n\nCe fichier complÃ¨te la table courte `CANON_OFFICIEL_49_PRINCIPES.md`.\n\nChaque principe est formulÃ© comme Ã©lÃ©ment interne d\u0027une cosmologie philosophique speculative. Aucun principe ne doit Ãªtre prÃ©sentÃ© comme preuve scientifique, dogme religieux ou promesse de contrÃ´le du rÃ©el.\n\n---\n\n## I. Le Champ Fondamental\n\n### Statut\nPrincipe fondamental.\n\n### Fondations concernÃ©es\n- Fondation I : Le Multivers Infini\n- Fondation X : L\u0027OcÃ©an des Possibles\n\n### DÃ©finition canonique\nLe Champ Fondamental est la structure profonde dont Ã©mergent les rÃ©alitÃ©s, les consciences, les temporalitÃ©s et les branches. Il dÃ©signe le niveau le plus gÃ©nÃ©ral de la cosmologie TRM.\n\n### Pourquoi ce principe a Ã©tÃ© introduit\nLa TRM a"
+                  },
+                  {
+                      "name":  "06_CANON_REECRIT_12_16_BRICKES.md",
+                      "path":  "../02_STORY_BIBLE/06_CANON_REECRIT_12_16_BRICKES.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  4976,
+                      "modified":  "2026-07-01T02:30:08.5427159Z",
+                      "excerpt":  "# Canon rÃ©Ã©crit â€” 14 briques principales\n\n## Statut\nVersion synthÃ©tique et hiÃ©rarchisÃ©e du canon de la ThÃ©orie de la RÃ©sonance Multiversielle.\n\nCette version remplace la logique en 49 principes par une structure plus compacte, plus lisible et plus cohÃ©rente.\n\n---\n\n## I. Les fondations du systÃ¨me\n\n### 1. Le Champ Fondamental\nLe Champ Fondamental est la structure profonde Ã  partir de laquelle Ã©mergent les rÃ©alitÃ©s, les consciences, les temporalitÃ©s et les branches. C\u0027est le niveau ontologique le plus gÃ©nÃ©ral de la cosmologie TRM.\n\n### 2. L\u0027OcÃ©an des Possibles\nTout ce qui est compatible avec les lois profondes du Champ Fondamental peut exister dans au moins une branche. Le possible n\u0027est pas seulement une idÃ©e abstraite : il est une rÃ©gion du rÃ©el total.\n\n### 3. Le RÃ©seau Vivant\nLe multivers n\u0027est pas une collection statique d\u0027univers isolÃ©s. C\u0027est un systÃ¨me dynami"
+                  },
+                  {
+                      "name":  "07_JOURNAL_ECARTS_RECONSTRUCTION_49.md",
+                      "path":  "../02_STORY_BIBLE/07_JOURNAL_ECARTS_RECONSTRUCTION_49.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  3831,
+                      "modified":  "2026-07-07T08:04:02.1911698Z",
+                      "excerpt":  "# Journal d\u0027ecarts - Reconstruction des 49 principes\n\n## Statut\nDocument de constat uniquement.\nAucune modification de l\u0027architecture conceptuelle gelee.\nAucune reclassification automatique appliquee ici.\n\n## Methode de controle\nVerification de coherence interne de la table de reconstruction selon 3 tests :\n1. Test de cycle de deduction (A depend de B et B depend de A)\n2. Test de dependance circulaire multi-noeuds\n3. Test de conformite minimale avec la hierarchie gelee (Ontologie -\u003e Dynamique -\u003e Phenomenologie -\u003e Epistemologie)\n\n---\n\n## Ecarts detectes\n\n### E01 - Cycle direct XX \u003c-\u003e XXI\n- Lignes concernees : XX, XXI\n- Constat :\n  - XX (Resonance Mutuelle) deduit de XXI\n  - XXI (Proximite Identitaire) deduit de XX\n- Nature : cycle logique direct\n- Impact : impossibilite de prouver l\u0027un sans presupposer l\u0027autre\n- Action recommandee (fin de passe) : choisir un ancrage unilateral et faire de"
+                  },
+                  {
+                      "name":  "08_ONTOLOGIE_TRM.md",
+                      "path":  "../02_STORY_BIBLE/08_ONTOLOGIE_TRM.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  5331,
+                      "modified":  "2026-07-06T01:08:01.7428541Z",
+                      "excerpt":  "# Architecture conceptuelle de la TRM\n\n## DÃ©finition fondatrice\nLa ThÃ©orie de la RÃ©sonance Multiversielle (TRM) est un cadre conceptuel destinÃ© Ã  dÃ©crire la structure du rÃ©el, les mÃ©canismes qui le gouvernent, les phÃ©nomÃ¨nes qui en Ã©mergent et les moyens par lesquels un observateur peut les explorer.\n\n## Objectif\nCe document dÃ©finit le socle de la TRM. Il ne dÃ©crit pas des principes isolÃ©s, mais les quatre grands domaines conceptuels auxquels toute proposition du canon devra se rattacher.\n\n## RÃ¨gle fondamentale\nToute proposition de la TRM doit pouvoir Ãªtre placÃ©e dans un domaine principal, avec Ã©ventuellement des dÃ©pendances vers d\u0027autres domaines.\n\nLa structure gÃ©nÃ©rale est la suivante :\n\nTRM\n\nOntologie\n     â†“\nDynamique\n     â†“\nPhÃ©nomÃ©nologie\n     â†“\nÃ‰pistÃ©mologie\n\n---\n\n## 1. Architecture gÃ©nÃ©rale de la TRM\n\nLa TRM repose sur une hiÃ©rarchie dÃ©ductive :"
+                  },
+                  {
+                      "name":  "09_RECONSTRUCTION_49_PAR_ARCHITECTURE.md",
+                      "path":  "../02_STORY_BIBLE/09_RECONSTRUCTION_49_PAR_ARCHITECTURE.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  5973,
+                      "modified":  "2026-07-07T08:03:02.7508607Z",
+                      "excerpt":  "# Reconstruction des 49 principes par architecture\n\n## Statut\nArchitecture conceptuelle gelee. Ce document n\u0027en modifie aucun element.\n\n## Regle appliquee\nPour chaque principe :\n1. Domaine principal (Ontologie, Dynamique, Phenomelogie, Epistemologie)\n2. Objet principal (Reseau, Branche, Conscience, Noyau Identitaire, Temporalite Locale)\n3. Statut logique (Loi fondamentale, Corollaire, Theoreme, Definition, Methode)\n4. Deductibilite (Oui/Non) et base de deduction\n\n---\n\n## Tableau de reconstruction\n\n| # | Principe | Domaine | Objet principal | Statut | Deductible | Base de deduction |\n| --- | --- | --- | --- | --- | --- | --- |\n| I | Le Champ Fondamental | Ontologie | Reseau | Loi fondamentale | Non | Axiome de cadre |\n| II | Le Noyau Identitaire | Ontologie | Noyau Identitaire | Loi fondamentale | Non | Axiome d\u0027identite |\n| III | Le Temps n\u0027est pas universel | Ontologie | Temporalite Loc"
+                  },
+                  {
+                      "name":  "10_CANON2_DAG_VALIDE.md",
+                      "path":  "../02_STORY_BIBLE/10_CANON2_DAG_VALIDE.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  5710,
+                      "modified":  "2026-07-07T08:20:58.6058995Z",
+                      "excerpt":  "# CANON2_DAG_VALIDE\n\n## Statut\nVersion figee de la reconstruction des 49 principes.\n\nSource unique : 09_RECONSTRUCTION_49_PAR_ARCHITECTURE.md\nContrainte respectee : architecture conceptuelle inchangee.\n\n## Controle de validite\n- CYCLE_CHECK_STRICT: OK\n- NODES: 49\n- Aucune boucle conceptuelle detectee.\n\n---\n\n## Tableau fige (49 principes)\n\n| # | Principe | Domaine | Objet principal | Statut | Deductible | Base de deduction |\n| --- | --- | --- | --- | --- | --- | --- |\n| I | Le Champ Fondamental | Ontologie | Reseau | Loi fondamentale | Non | Axiome de cadre |\n| II | Le Noyau Identitaire | Ontologie | Noyau Identitaire | Loi fondamentale | Non | Axiome d\u0027identite |\n| III | Le Temps n\u0027est pas universel | Ontologie | Temporalite Locale | Loi fondamentale | Non | Axiome de temporalite |\n| IV | Les Futurs deja presents | Dynamique | Temporalite Locale | Corollaire | Oui | III, VI |\n| V | La Na"
+                  },
+                  {
+                      "name":  "10_STYLE_GUIDE.md",
+                      "path":  "../02_STORY_BIBLE/10_STYLE_GUIDE.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  134,
+                      "modified":  "2026-05-07T20:31:13.0521241Z",
+                      "excerpt":  "# STYLE GUIDE\n\n## Point De Vue\n\n## Temps\n\n## Ton\n\n## Rythme\n\n## Dialogue\n\n## Vocabulaire Recurrent\n\n## Interdits\n\n## Exemples De Voix"
+                  },
+                  {
+                      "name":  "11_DEPENDANCES_CANON2_COMPACTES.md",
+                      "path":  "../02_STORY_BIBLE/11_DEPENDANCES_CANON2_COMPACTES.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  15666,
+                      "modified":  "2026-07-07T08:22:13.4430061Z",
+                      "excerpt":  "# DEPENDANCES_CANON2_COMPACTES\n\n## Statut\nVue compacte principe par principe pour preparer la refonte canonique.\n\nSource : 09_RECONSTRUCTION_49_PAR_ARCHITECTURE.md\nControle : post-arbitrage DAG valide.\n\n---\n\n## Format\n- Domaine principal\n- Statut\n- Dependances ontologiques\n- Dependances fonctionnelles\n- Dependances corrigees post-DAG\n- Role dans le Canon 2.0\n\n---\n\n## Ontologie\n\n### I - Le Champ Fondamental\n- Domaine principal : Ontologie\n- Statut : Loi fondamentale\n- Dependances ontologiques : Aucune (axiome)\n- Dependances fonctionnelles : VI, XXIII, XL\n- Dependances corrigees post-DAG : aucune"
+                  },
+                  {
+                      "name":  "12_CANON_2_0.md",
+                      "path":  "../02_STORY_BIBLE/12_CANON_2_0.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  52719,
+                      "modified":  "2026-07-07T09:21:49.1791285Z",
+                      "excerpt":  "# CANON 2.0\n\n## Statut du document\nCe document est le texte doctrinal central de la TRM.\nIl s\u0027appuie sur les fondations deja validees :\n- architecture conceptuelle ;\n- ontologie ;\n- reconstruction des 49 principes ;\n- graphe logique acyclique (DAG) ;\n- vue compacte des dependances.\n\nCe document ne remplace pas les documents techniques de reference.\nIl les met en forme dans un langage coherent, lisible et transmissible.\n\n---\n\n## 1. Definition de la TRM\nLa Theorie de la Resonance Multiversielle (TRM) est un cadre conceptuel qui decrit :\n1. ce qui existe ;\n2. comment cela agit ;\n3. ce qui apparait ;\n4. comment un observateur peut l\u0027explorer.\n\nLa TRM ne se presente pas comme une theorie scientifique empirique.\nElle se presente comme une cosmologie philosophique speculative, structuree par des relations logiques explicites.\n\n---"
+                  },
+                  {
+                      "name":  "12_CANON_2_0_EDITION_DOCTRINALE.md",
+                      "path":  "../02_STORY_BIBLE/12_CANON_2_0_EDITION_DOCTRINALE.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  45264,
+                      "modified":  "2026-07-07T09:29:35.0868083Z",
+                      "excerpt":  "# CANON 2.0 - Edition doctrinale\n\n## Note d\u0027edition\nCette edition doctrinale est destinee a la lecture continue et a la transmission philosophique de la TRM.\nLe document source de reference interne reste : 12_CANON_2_0.md.\n\n---\n\n## Statut du document\nCe document est le texte doctrinal central de la TRM.\nIl s\u0027appuie sur les fondations deja validees :\n- architecture conceptuelle ;\n- ontologie ;\n- reconstruction des 49 principes ;\n- graphe logique acyclique (DAG) ;\n- vue compacte des dependances.\n\nCe document ne remplace pas les documents techniques de reference.\nIl les met en forme dans un langage coherent, lisible et transmissible.\n\n---\n\n## 1. Definition de la TRM\nLa Theorie de la Resonance Multiversielle (TRM) est un cadre conceptuel qui decrit :\n1. ce qui existe ;\n2. comment cela agit ;\n3. ce qui apparait ;\n4. comment un observateur peut l\u0027explorer."
+                  },
+                  {
+                      "name":  "13_GOUVERNANCE_DOCUMENTAIRE_TRM.md",
+                      "path":  "../02_STORY_BIBLE/13_GOUVERNANCE_DOCUMENTAIRE_TRM.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  1787,
+                      "modified":  "2026-07-07T08:35:14.5919663Z",
+                      "excerpt":  "# GOUVERNANCE DOCUMENTAIRE TRM\n\n## Objet\nCe document fixe la hierarchie des statuts documentaires de la TRM et la regle de precedence entre niveaux.\n\n---\n\n## 1. Hierarchie des documents\n\n### 1.1 Documents constitutionnels\nDocuments tres rarement modifies.\n\n- 08_ONTOLOGIE_TRM.md\n- 10_CANON2_DAG_VALIDE.md\n- Architecture conceptuelle (portee constitutionnelle definie dans 08_ONTOLOGIE_TRM.md)\n\nRegle : une modification constitutionnelle est exceptionnelle et doit etre justifiee explicitement.\n\n### 1.2 Documents doctrinaux\nDocuments de formulation de la doctrine.\n\n- 12_CANON_2_0.md\n\nRegle : le doctrinal doit rester compatible avec les constitutionnels.\n\n### 1.3 Documents derives\nDocuments d\u0027application, de vulgarisation ou de creation."
+                  },
+                  {
+                      "name":  "14_GABARIT_PRINCIPE_CANON2.md",
+                      "path":  "../02_STORY_BIBLE/14_GABARIT_PRINCIPE_CANON2.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  1187,
+                      "modified":  "2026-07-07T08:35:14.5929414Z",
+                      "excerpt":  "# GABARIT PRINCIPE CANON2\n\n## Objet\nStructure canonique obligatoire pour rediger chaque principe du Canon 2.0.\n\nChaque principe du Canon 2.0 doit suivre exactement cette forme.\n\n---\n\n## Modele\n\nPrincipe [NUMERO] - [TITRE]\n\n1. Definition\n- Definition courte et stable du principe.\n\n2. Enonce\n- Formulation doctrinale du principe.\n\n3. Justification\n- Raisonnement logique de fondation.\n- Position dans le DAG (premisse, corollaire, theoreme, definition, methode).\n\n4. Consequences\n- Effets directs du principe.\n- Effets indirects pertinents.\n\n5. Relations avec les autres principes"
+                  },
+                  {
+                      "name":  "15_GLOSSAIRE_OFFICIEL_TRM.md",
+                      "path":  "../02_STORY_BIBLE/15_GLOSSAIRE_OFFICIEL_TRM.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  13489,
+                      "modified":  "2026-07-07T09:45:37.2333971Z",
+                      "excerpt":  "# Glossaire officiel TRM\n\n## Statut du document\nDocument de normalisation terminologique.\nCe texte ne modifie pas le Canon 2.0.\nIl explicite les termes utilises dans les textes doctrinaux et operatoires.\n\nSource doctrinale primaire : 12_CANON_2_0.md\nSource de lecture continue : 12_CANON_2_0_EDITION_DOCTRINALE.md\nCadre documentaire : 13_GOUVERNANCE_DOCUMENTAIRE_TRM.md\n\n---\n\n## Mission\nLe Glossaire officiel TRM poursuit trois objectifs :\n1. fixer un vocabulaire stable ;\n2. eviter les glissements de sens ;\n3. garantir la compatibilite entre doctrine, pratique et transmission.\n\n---\n\n## Regles de redaction des entrees\nChaque entree doit suivre le meme schema :\n1. Terme canonique\n2. Domaine principal (ontologie, dynamique, phenomenologie, epistemologie)\n3. Definition courte (1 a 2 phrases)\n4. Definition developpee (3 a 8 phrases)\n5. Distinctions critiques (ce que le terme n\u0027est pas)"
+                  },
+                  {
+                      "name":  "16_TRAITE_PHILOSOPHIQUE_TRM.md",
+                      "path":  "../02_STORY_BIBLE/16_TRAITE_PHILOSOPHIQUE_TRM.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  23482,
+                      "modified":  "2026-07-07T09:55:28.1732192Z",
+                      "excerpt":  "# Traite philosophique de la TRM\n\n## Statut du document\nTexte d\u0027exposition philosophique.\nCe traite interprete et articule le Canon 2.0 dans une forme argumentative.\nIl ne remplace pas le canon technique et ne cree pas de nouveaux principes fondamentaux.\n\nReference canonique : 12_CANON_2_0.md\nEdition doctrinale : 12_CANON_2_0_EDITION_DOCTRINALE.md\nCadre de gouvernance : 13_GOUVERNANCE_DOCUMENTAIRE_TRM.md\n\n---\n\n## Mission\nCe traite vise a :\n1. rendre la doctrine intelligible pour un lectorat philosophique ;\n2. expliciter les theses, les consequences et les limites ;\n3. positionner la TRM comme cosmologie speculative rigoureuse.\n\n---\n\n## Positionnement epistemique\nLa TRM est presentee ici comme :\n- une cosmologie philosophique speculative ;\n- une architecture logique non empirique ;\n- une doctrine de coherence et d\u0027orientation.\n\nCe traite refuse trois reductions :"
+                  },
+                  {
+                      "name":  "17_GUIDE_DU_NAVIGATEUR_TRM.md",
+                      "path":  "../02_STORY_BIBLE/17_GUIDE_DU_NAVIGATEUR_TRM.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  3294,
+                      "modified":  "2026-07-07T09:42:35.1694378Z",
+                      "excerpt":  "# Guide du Navigateur TRM\n\n## Statut du document\nManuel de pratique doctrinale.\nCe guide traduit les methodes du canon en protocoles de travail.\nIl ne decrit pas des preuves empiriques ; il decrit des cadres d\u0027usage internes a la TRM.\n\nReference canonique : 12_CANON_2_0.md\nEdition doctrinale : 12_CANON_2_0_EDITION_DOCTRINALE.md\nCadre documentaire : 13_GOUVERNANCE_DOCUMENTAIRE_TRM.md\n\n---\n\n## Mission\nLe Guide du Navigateur a quatre fonctions :\n1. transformer les principes methodologiques en procedures operatoires ;\n2. reduire les confusions entre ressenti, interpretation et orientation ;\n3. instaurer une discipline de cartographie et de suivi ;\n4. fournir des protocoles de progression gradues.\n\n---\n\n## Cadre de prudence\nLe guide applique trois clauses de securite doctrinale :\n1. non-confusion methode/realite ;\n2. primat de la coherence du noyau ;\n3. progression par paliers sous contrainte"
+                  },
+                  {
+                      "name":  "01_CHARACTER_INDEX.md",
+                      "path":  "../03_CHARACTERS/01_CHARACTER_INDEX.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  132,
+                      "modified":  "2026-05-07T20:31:13.1031300Z",
+                      "excerpt":  "# CHARACTER INDEX\n\n| Personnage | Role | Desir | Besoin | Arc | Fichier |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |"
+                  },
+                  {
+                      "name":  "01_WORLD_NOTES.md",
+                      "path":  "../04_WORLD/01_WORLD_NOTES.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  102,
+                      "modified":  "2026-05-07T20:31:13.1629774Z",
+                      "excerpt":  "# WORLD NOTES\n\n## Lieux\n\n## Regles\n\n## Institutions\n\n## Culture\n\n## Objets Importants\n\n## Contraintes"
+                  },
+                  {
+                      "name":  "01_CHAPTER_MAP.md",
+                      "path":  "../05_OUTLINE/01_CHAPTER_MAP.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  161,
+                      "modified":  "2026-05-07T20:31:13.2886674Z",
+                      "excerpt":  "# CHAPTER MAP\n\n| Chapitre | Titre | POV | Objectif | Conflit | Changement | Statut |\n| --- | --- | --- | --- | --- | --- | --- |\n| 01 |  |  |  |  |  | A faire |"
+                  },
+                  {
+                      "name":  "02_SYNOPSIS.md",
+                      "path":  "../05_OUTLINE/02_SYNOPSIS.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  77,
+                      "modified":  "2026-05-07T20:31:13.2387941Z",
+                      "excerpt":  "# SYNOPSIS\n\n## Synopsis Court\n\n## Synopsis Long\n\n## Debut\n\n## Milieu\n\n## Fin"
+                  },
+                  {
+                      "name":  "01_CHAPTER_01.md",
+                      "path":  "../06_CHAPTERS/01_CHAPTER_01.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  59,
+                      "modified":  "2026-05-07T20:31:13.3400676Z",
+                      "excerpt":  "# CHAPTER 01\n\n## Objectif\n\n## POV\n\n## Scene 1\n\nEcrire ici."
+                  },
+                  {
+                      "name":  "01_SCENE_INDEX.md",
+                      "path":  "../07_SCENES/01_SCENE_INDEX.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  130,
+                      "modified":  "2026-05-07T20:31:13.3865286Z",
+                      "excerpt":  "# SCENE INDEX\n\n| Scene | Chapitre | POV | Objectif | Statut | Fichier |\n| --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |"
+                  },
+                  {
+                      "name":  "01_DRAFT_01.md",
+                      "path":  "../08_DRAFTS/01_DRAFT_01.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  87,
+                      "modified":  "2026-05-07T20:31:13.4394259Z",
+                      "excerpt":  "# DRAFT 01\n\nAssembler ici les chapitres lorsque le manuscrit commence a prendre forme."
+                  },
+                  {
+                      "name":  "02_DRAFT_02.md",
+                      "path":  "../08_DRAFTS/02_DRAFT_02.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  83,
+                      "modified":  "2026-05-07T20:33:21.6682869Z",
+                      "excerpt":  "# DRAFT 02\n\nAssembler ici le manuscrit reecrit apres la revision developpementale."
+                  },
+                  {
+                      "name":  "01_REVISION_PLAN.md",
+                      "path":  "../09_REVISION/01_REVISION_PLAN.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  607,
+                      "modified":  "2026-05-07T20:33:21.5377749Z",
+                      "excerpt":  "# REVISION PLAN\n\n## Passes\n| Passe | Objectif | Statut | Notes |\n| --- | --- | --- | --- |\n| 05.1 Structure | Verifier l\u0027architecture | A faire |  |\n| 05.2 Personnages | Verifier motivations et arcs | A faire |  |\n| 05.3 Rythme | Couper lenteurs et repetitions | A faire |  |\n| 05.4 Scenes manquantes | Ajouter ou supprimer les scenes necessaires | A faire |  |\n| 06 Draft 02 | Appliquer les decisions de revision | A faire |  |\n| 07.1 Style | Polir voix et phrases | A faire |  |\n| 07.2 Continuite | Corriger contradictions | A faire |  |\n| 07.3 Correction | Orthographe et format | A faire |  |\n\n## Notes"
+                  },
+                  {
+                      "name":  "01_EXPORT_CHECKLIST.md",
+                      "path":  "../10_EXPORTS/01_EXPORT_CHECKLIST.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  492,
+                      "modified":  "2026-05-07T22:01:00.3825788Z",
+                      "excerpt":  "# EXPORT CHECKLIST\n\n## Avant Export\n- [ ] Titre confirme\n- [ ] Chapitres dans le bon ordre\n- [ ] Draft 02 assemble\n- [ ] Line edit termine\n- [ ] Continuite verifiee\n- [ ] Notes internes supprimees\n- [ ] Orthographe relue\n- [ ] Format choisi\n- [ ] Brief couverture pret\n- [ ] Couverture generee avec ChatGPT Image 2 / GPT Image 2\n- [ ] Titre et auteur verifies sur la couverture\n\n## Formats\n- [ ] Markdown\n- [ ] DOCX\n- [ ] PDF\n- [ ] EPUB\n- [ ] Cover ebook\n- [ ] Cover print\n- [ ] Cover social"
+                  },
+                  {
+                      "name":  "01_COVER_BRIEF.md",
+                      "path":  "../11_COVER/01_COVER_BRIEF.md",
+                      "topLevel":  "..",
+                      "ext":  ".md",
+                      "size":  405,
+                      "modified":  "2026-05-07T22:00:59.6097913Z",
+                      "excerpt":  "# COVER BRIEF\n\n## Titre\n[TITLE]\n\n## Auteur\n\n## Genre\n[GENRE]\n\n## Public\n[AUDIENCE]\n\n## Promesse Lecteur\n\n## Pitch Court\n\n## Ton Visuel\n\n## Image Centrale\n\n## Symboles\n\n## Elements Interdits\n\n## Couleurs\n\n## Typographie"
+                  },
+                  {
+                      "name":  "app.js",
+                      "path":  "../docs/app.js",
+                      "topLevel":  "..",
+                      "ext":  ".js",
+                      "size":  7852,
+                      "modified":  "2026-07-07T10:02:04.1474824Z",
+                      "excerpt":  "const state = {\n  raw: null,\n  files: [],\n  currentFolder: \"\",\n};\n\nconst searchInput = document.getElementById(\"searchInput\");\nconst domainFilter = document.getElementById(\"domainFilter\");\nconst extFilter = document.getElementById(\"extFilter\");\nconst sortSelect = document.getElementById(\"sortSelect\");\nconst stats = document.getElementById(\"stats\");\nconst fileGrid = document.getElementById(\"fileGrid\");\nconst folderTree = document.getElementById(\"folderTree\");\nconst collapseAllBtn = document.getElementById(\"collapseAllBtn\");\nconst previewDialog = document.getElementById(\"previewDialog\");\nconst previewTitle = document.getElementById(\"previewTitle\");\nconst previewMeta = document.getElementById(\"previewMeta\");\nconst previewBody = document.getElementById(\"previewBody\");\nconst githubLink = document.getElementById(\"githubLink\");\nconst closePreviewBtn = document.getElementById(\"closePreviewBtn\");"
+                  },
+                  {
+                      "name":  "index.html",
+                      "path":  "../docs/index.html",
+                      "topLevel":  "..",
+                      "ext":  ".html",
+                      "size":  2473,
+                      "modified":  "2026-07-07T10:02:04.1314729Z",
+                      "excerpt":  "\u003c!doctype html\u003e\n\u003chtml lang=\"fr\"\u003e\n\u003chead\u003e\n  \u003cmeta charset=\"utf-8\" /\u003e\n  \u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1\" /\u003e\n  \u003ctitle\u003eTRM Navigator\u003c/title\u003e\n  \u003clink rel=\"preconnect\" href=\"https://fonts.googleapis.com\" /\u003e\n  \u003clink rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin /\u003e\n  \u003clink href=\"https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700\u0026family=IBM+Plex+Mono:wght@400;600\u0026display=swap\" rel=\"stylesheet\" /\u003e\n  \u003clink rel=\"stylesheet\" href=\"styles.css\" /\u003e\n\u003c/head\u003e\n\u003cbody\u003e\n  \u003cdiv class=\"bg-orb orb-1\"\u003e\u003c/div\u003e\n  \u003cdiv class=\"bg-orb orb-2\"\u003e\u003c/div\u003e\n\n  \u003cheader class=\"hero\"\u003e\n    \u003cp class=\"eyebrow\"\u003eTHEORIE DE LA RESONANCE MULTIVERSIELLE\u003c/p\u003e\n    \u003ch1\u003eTRM Navigator\u003c/h1\u003e\n    \u003cp class=\"subtitle\"\u003eLecture intelligente de l ensemble du dossier: recherche semantique rapide, filtres par domaines, navigation de structure et apercu documentaire.\u003c/p\u003e\n  \u003c/header\u003e\n\n  "
+                  },
+                  {
+                      "name":  "styles.css",
+                      "path":  "../docs/styles.css",
+                      "topLevel":  "..",
+                      "ext":  ".css",
+                      "size":  5480,
+                      "modified":  "2026-07-07T10:02:04.0803524Z",
+                      "excerpt":  ":root {\n  --bg: #0b1720;\n  --bg-2: #0f2230;\n  --panel: rgba(10, 28, 39, 0.82);\n  --ink: #eaf4f6;\n  --muted: #97b2bc;\n  --line: rgba(152, 194, 206, 0.2);\n  --accent: #f6b73c;\n  --accent-2: #39c2b3;\n  --danger: #ff7f6b;\n}\n\n* {\n  box-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n  min-height: 100vh;\n  color: var(--ink);\n  background: radial-gradient(circle at 20% 20%, #103146 0%, transparent 40%), radial-gradient(circle at 85% 15%, #4a2b18 0%, transparent 45%), linear-gradient(160deg, var(--bg), var(--bg-2));\n  font-family: \"Space Grotesk\", sans-serif;\n}\n\n.bg-orb {\n  position: fixed;\n  border-radius: 50%;\n  filter: blur(70px);"
+                  },
+                  {
+                      "name":  "generate_trm_manifest.ps1",
+                      "path":  "../TOOLS/generate_trm_manifest.ps1",
+                      "topLevel":  "..",
+                      "ext":  ".ps1",
+                      "size":  2754,
+                      "modified":  "2026-07-07T10:03:30.5900864Z",
+                      "excerpt":  "param(\n  [string]$RootPath = \"..\",\n  [string]$OutputPath = \"../docs/tree.json\"\n)\n\n$resolvedRoot = (Resolve-Path $RootPath).Path\n$outFile = [System.IO.Path]::GetFullPath((Join-Path (Split-Path -Parent $MyInvocation.MyCommand.Path) $OutputPath))\n\n$excludePrefixes = @(\n  \".git/\",\n  \"docs/\"\n)\n\n$textExtensions = @(\n  \".md\", \".txt\", \".json\", \".yml\", \".yaml\", \".ps1\", \".js\", \".css\", \".html\", \".xml\", \".csv\"\n)\n\n$files = Get-ChildItem -Path $resolvedRoot -Recurse -File\n\n$resultFiles = New-Object System.Collections.Generic.List[object]\n$folderSet = New-Object System.Collections.Generic.HashSet[string]\n\nforeach ($file in $files) {\n  $baseUri = New-Object System.Uri(($resolvedRoot.TrimEnd(\u0027\\\\\u0027) + \u0027\\\\\u0027))\n  $fileUri = New-Object System.Uri($file.FullName)\n  $relativePath = [System.Uri]::UnescapeDataString($baseUri.MakeRelativeUri($fileUri).ToString()).Replace(\"\\\\\", \"/\")\n\n  $skip = $false"
+                  }
+              ]
+}
