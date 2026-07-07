@@ -321,9 +321,9 @@ These :
 Dans la TRM, les passages ne designent pas un saut magique entre mondes, mais des phases de transition ou la configuration locale devient plus sensible a des attracteurs voisins; la pre-resonance en est le regime preparatoire, et les fenetres de bascule en constituent les moments critiques d'orientation.
 
 Argumentation :
-Apres avoir etabli le statut des reves comme interface nocturne de reconfiguration, le traite doit decrire le versant diurne de la phenomenologie structurelle. C'est ici qu'apparait la notion de passage: un intervalle dans lequel les stabilites ordinaires perdent une partie de leur rigidite, sans pour autant disparaite completement. Le sujet n'est plus exactement dans l'ancien regime, mais pas encore installe dans le nouveau.
+Apres avoir etabli le statut des reves comme interface nocturne de reconfiguration, le traite doit decrire le versant diurne de la phenomenologie structurelle. C'est ici qu'apparait la notion de passage: un intervalle dans lequel les stabilites ordinaires perdent une partie de leur rigidite, sans pour autant disparaitre completement. Le sujet n'est plus exactement dans l'ancien regime, mais pas encore installe dans le nouveau.
 
-La pre-resonance designe la phase amont de ce processus. Des indices faibles s'accumulent: recurrentes convergences narratives, motifs relationnels repetes, sentiment de familiarite avec une direction encore non formalisee. Doctrinalement, ces signaux n'ont pas valeur de preuve; ils fonctionnent comme des marqueurs de sensibilisation du systeme identitaire a une option de trajectoire potentielle.
+La pre-resonance designe la phase amont de ce processus. Des indices faibles s'accumulent: des convergences narratives recurrentes, des motifs relationnels repetes, un sentiment de familiarite avec une direction encore non formalisee. Doctrinalement, ces signaux n'ont pas valeur de preuve; ils fonctionnent comme des marqueurs de sensibilisation du systeme identitaire a une option de trajectoire potentielle.
 
 Les fenetres de bascule correspondent aux moments ou cette sensibilisation atteint un seuil operatoire. Une decision, une rencontre, un acte de clarification ou une reorganisation pratique peut alors produire un effet disproportionne par rapport a son apparente simplicite. Ce n'est pas l'evenement en lui-meme qui est absolu, mais sa position dans une dynamique deja preparee par pre-resonance.
 
@@ -434,7 +434,7 @@ La cartographie constitue le deuxieme geste. Elle transforme des intuitions disp
 
 L'incarnation constitue le troisieme geste et le test decisif de la methode. Une orientation n'acquiert de validite doctrinale pratique que lorsqu'elle est traduite en actes repetables, ajustables et soutenables sous contraintes reelles. L'incarnation relie l'intelligibilite a la temporalite: elle mesure la robustesse d'une lecture a sa capacite de durer sans dissocier noyau identitaire et organisation de vie.
 
-La force de cette triade tient a son caractere cyclique. La meditation sans cartographie risque l'introspection sterile. La cartographie sans incarnation reste speculative. L'incarnation sans meditation ni cartographie degenerate en adaptation aveugle ou en activisme incoherent. La TRM defend donc une boucle methodologique: clarifier, modeliser, engager, puis reevaluer.
+La force de cette triade tient a son caractere cyclique. La meditation sans cartographie risque l'introspection sterile. La cartographie sans incarnation reste speculative. L'incarnation sans meditation ni cartographie degenere en adaptation aveugle ou en activisme incoherent. La TRM defend donc une boucle methodologique: clarifier, modeliser, engager, puis reevaluer.
 
 Cette boucle permet aussi de traiter l'incertitude sans paralysie. Plutot que d'attendre une certitude totale, le sujet peut proceder par convergences progressives: micro-decisions, observations de retour, recalibrage des hypotheses, et consolidation des attracteurs compatibles avec le noyau. La methode devient ainsi une ethique de precision sous contrainte, et non une recherche de controle absolu.
 
@@ -605,10 +605,10 @@ Le traite atteint ici sa cloture argumentative. La suite du travail releve des r
 ---
 
 ## Chantiers prioritaires
-1. Consolider la relecture transversale des Livres IV et V.
-2. Harmoniser les transitions internes du traite complet.
-3. Lisser le niveau de densite argumentative entre chapitres.
-4. Chapitres 1 a 15 rediges et valides.
+1. Produire une edition publication plus fluide a partir de cette version doctrinale.
+2. Relire l'ensemble pour unifier encore le rythme phrastique entre chapitres.
+3. Verifier une derniere fois la stabilite du vocabulaire avec le glossaire officiel.
+4. Chapitres 1 a 15 rediges, harmonises et valides.
 
 ---
 
@@ -629,4 +629,4 @@ Le traite atteint ici sa cloture argumentative. La suite du travail releve des r
 - v1.4 : Chapitre 13 redige (Ce que la TRM peut dire)
 - v1.5 : Chapitre 14 redige (Ce que la TRM ne pretend pas dire)
 - v1.6 : Chapitre 15 redige (Objections majeures et reponses internes)
-- v1.7 : traite complet a harmoniser
+- v1.7 : harmonisation editoriale transversale effectuee
