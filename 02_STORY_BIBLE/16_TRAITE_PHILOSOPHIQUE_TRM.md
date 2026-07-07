@@ -248,7 +248,7 @@ Limites :
 Cette these ne fournit pas de metrique universelle du cout ni de formule unique de compensation applicable a tous les contextes. Elle fixe une logique structurelle de transformation, pas un modele quantitatif predictif.
 
 Transition :
-Une fois clarifiees les contraintes dynamiques du changement, il devient possible d'examiner la figure operatoire qui agit dans ces contraintes. Le chapitre 11 reprendra cette question sur le plan methodologique avec la meditation, la cartographie et l'incarnation.
+Une fois clarifiees les contraintes dynamiques du changement, il devient possible d'examiner la logique des structures qui stabilisent ou reorientent durablement une trajectoire. Le chapitre 6 traitera des attracteurs et de la stabilisation.
 
 ---
 
@@ -290,7 +290,7 @@ Dans la TRM, le reve n'est ni un residu psychique sans structure ni une preuve e
 Argumentation :
 L'entree dans le Livre III impose un deplacement de focale. Apres l'ontologie du champ et la dynamique des contraintes, il faut decrire le mode d'apparition vecu des reconfigurations. Le reve devient ici un terrain privilegie, non parce qu'il livrerait un acces integral au reseau, mais parce qu'il expose des formes d'ajustement que la conscience diurne maintient souvent a l'etat diffus.
 
-La premiere fonction philosophique du reve est de suspendre partiellement les rigidites narratives ordinaires. Dans l'etat de veille, l'identite s'organise autour de continuites pratiques fortes: roles, obligations, causalites explicites. En regime nocturne, ces continuities se relachent, permettant a des combinaisons de motifs, d'affects et de scenarios de se reconfigurer. Cette plasticite n'abolit pas le noyau; elle met en circulation ses tensions latentes.
+La premiere fonction philosophique du reve est de suspendre partiellement les rigidites narratives ordinaires. Dans l'etat de veille, l'identite s'organise autour de continuites pratiques fortes: roles, obligations, causalites explicites. En regime nocturne, ces continuites se relachent, permettant a des combinaisons de motifs, d'affects et de scenarios de se reconfigurer. Cette plasticite n'abolit pas le noyau; elle met en circulation ses tensions latentes.
 
 La deuxieme fonction est integrative. La TRM ne considere pas le reve comme un theatre arbitraire, mais comme un espace de mise en relation entre strates de memoire, anticipations de branche et signaux de pre-resonance. Des elements apparemment disjoints peuvent s'y condenser en une figure unique, rendant perceptible une coherence qui restait implicite a l'etat de veille.
 
@@ -391,7 +391,7 @@ These :
 La TRM soutient qu'aucun phenomene ne peut etre interprete correctement sans discipline de lecture: lire doctrinalement signifie articuler niveau ontologique, dynamique et phenomenologique selon des criteres explicites de coherence, sans glisser ni vers le dogmatisme interpretatif ni vers le relativisme absolu.
 
 Argumentation :
-L'entree dans le Livre IV exige de transformer une intuition methodologique en exigence epistemo-logique. Les chapitres precedents ont montre des configurations, des passages et des resonances; mais ces contenus restent ambigus si les conditions de leur interpretation ne sont pas precisees. Une doctrine sans regles de lecture devient soit un corpus opaque reserve a l'autorite, soit un reservoir de projections arbitraires.
+L'entree dans le Livre IV exige de transformer une intuition methodologique en exigence epistemologique. Les chapitres precedents ont montre des configurations, des passages et des resonances; mais ces contenus restent ambigus si les conditions de leur interpretation ne sont pas precisees. Une doctrine sans regles de lecture devient soit un corpus opaque reserve a l'autorite, soit un reservoir de projections arbitraires.
 
 La premiere condition est la distinction stricte des plans. L'ontologie indique ce qui peut etre pose en droit dans le champ; la dynamique decrit les contraintes de transition entre configurations; la phenomenologie qualifie l'apparition vecue de ces transitions. Confondre ces plans produit des erreurs typiques: prendre une experience intense pour preuve ontologique, ou traiter un principe ontologique comme une prediction empirique immediate.
 
@@ -403,7 +403,7 @@ La quatrieme condition est critique: toute interpretation doit integrer ses prop
 
 Une cinquieme condition, enfin, porte sur le regime de langage. Les termes canoniques ne sont pas des metaphore flottantes; ils renvoient a des fonctions conceptuelles stabilisees. Employer resonance, attracteur, passage ou noyau sans precision degrade la lisibilite du systeme. La rigueur lexicale n'est pas un formalisme sterile, mais une condition de transmission intersubjective.
 
-Philosophiquement, ce chapitre defende une hermeneutique de responsabilite. Interpretrer, dans la TRM, c'est assumer les consequences pratiques de ses lectures, reconnaitre leur portee limitee et maintenir la distinction entre orientation doctrinale et verification empirique. La doctrine n'ordonne pas de croire; elle prescrit une maniere exigeante de lire.
+Philosophiquement, ce chapitre defend une hermeneutique de responsabilite. Interpretrer, dans la TRM, c'est assumer les consequences pratiques de ses lectures, reconnaitre leur portee limitee et maintenir la distinction entre orientation doctrinale et verification empirique. La doctrine n'ordonne pas de croire; elle prescrit une maniere exigeante de lire.
 
 Cette architecture prepare naturellement le chapitre 11. Une fois les conditions de lecture explicitees, il faut decrire les methodes concretes par lesquelles un sujet transforme ces conditions en pratique: meditation, cartographie et incarnation.
 
@@ -495,11 +495,120 @@ L'epistemologie de la navigation etant maintenant completee, il faut precisement
 
 ---
 
+## Chapitre 13 - Ce que la TRM peut dire
+These :
+La TRM peut legitimement dire ce qui releve de la coherence structurelle des trajectoires possibles, de leurs conditions de stabilisation et des regimes d'interpretation associes; elle ne peut pas, sans sortir de son cadre, se presenter comme theorie predictive exhaustive du reel empirique.
+
+Argumentation :
+L'ouverture du Livre V exige une delimitation explicite de la portee doctrinale. Toute architecture conceptuelle rigoureuse doit definir la zone de validite de ses enonces. Sans cette delimitation, deux derives opposees apparaissent: la sur-extension dogmatique, qui attribue a la doctrine un pouvoir explicatif total, et la sous-estimation reductrice, qui annule sa valeur parce qu'elle n'emploie pas les protocoles d'une science experimentale.
+
+La TRM peut d'abord dire quelque chose de consistant sur les conditions formelles de possibilite. Elle propose une grammaire ontologique du champ, du noyau, de la resonance et de la convergence qui permet d'ordonner des trajectoires sans les confondre. Sa force reside dans cette capacite de structuration: distinguer les configurations compatibles des contradictions internes et rendre intelligibles les seuils de bascule, les couts et les compensations.
+
+Elle peut aussi dire quelque chose sur la logique pratique de navigation. En articulant clarte interieure, cartographie active et incarnation, la TRM fournit un cadre methodologique pour orienter l'action sous incertitude. Ce cadre n'est pas un simple commentaire abstrait: il permet de comparer des options, d'evaluer leur soutenabilite et de corriger les interpretations a partir des effets observes dans la duree.
+
+En outre, la TRM peut dire quelque chose sur la phenomenologie structurelle. Les reves, passages, pre-resonances et resonances collectives y sont lisibles comme formes d'apparition de dynamiques plus profondes. Cette lecture n'est pas une preuve causale au sens strict, mais une hermeneutique contrainte par des principes de coherence et des criteres de responsabilite.
+
+La doctrine peut egalement dire quelque chose sur les limites de ses propres enonces. En assumant la distinction entre niveau ontologique, dynamique, phenomenologique et empirique, elle evite de transformer ses categories en absolus indiscutables. Cette reflexivite constitue une force epistemologique: la TRM est robuste lorsqu'elle sait expliciter ce qu'elle affirme et ce qu'elle ne peut pas inferer.
+
+Cependant, cette portee demeure conditionnelle. Les enonces TRM ne valent qu'a l'interieur d'un regime interpretatif qui respecte ses definitions, sa logique interne et son etiquette methodologique. Utiliser ses termes comme metaphore libre ou comme slogans normatifs decontextualises produit des pseudo-conclusions qui ne sont plus doctrinalement valides.
+
+Philosophiquement, le chapitre 13 defend une position de rigueur non totalisante. La TRM n'est ni une physique cachee ni une croyance arbitraire; elle est une cosmologie speculative structuree qui organise le pensable et l'orientable sans pretendre saturer le reel dans toutes ses dimensions. Sa legitimite depend de cette juste mesure.
+
+Cette clarification prepare necessairement le chapitre 14. Une fois definie la portee positive de la TRM, il faut verrouiller ses non-pretentions pour prevenir les abus interpretatifs. Le chapitre suivant precisera ce que la TRM ne pretend pas dire.
+
+Appuis canoniques :
+- Principe XLV - Le Principe de Coherence Interne
+- Principe X - Le Principe de Causalite Contextuelle
+- Principe XI - Le Principe d'Interpretation Subjective
+- Principe I - Le Champ Fondamental
+
+Limites :
+Cette these ne permet ni de convertir la TRM en theorie scientifique predictive au sens experimental, ni de trancher toute question metaphysique ou empirique exterieure a son cadre. Elle etablit une portee doctrinale precise, non une juridiction totale sur le savoir.
+
+Transition :
+La portee positive etant maintenant etablie, il faut expliciter en negatif les frontieres de la doctrine. Le chapitre 14 exposera ce que la TRM ne pretend pas dire.
+
+---
+
+## Chapitre 14 - Ce que la TRM ne pretend pas dire
+These :
+La TRM ne pretend ni fournir une preuve scientifique experimentale de ses theses, ni garantir un controle total des trajectoires, ni remplacer les savoirs empiriques, psychologiques, medicaux, juridiques ou historiques par un schema unique d'interpretation.
+
+Argumentation :
+Toute doctrine qui explicite sa portee doit aussi formuler ses non-pretentions. Ce travail n'est pas un aveu de faiblesse; il est une condition de rigueur. En l'absence de frontieres negatives claires, une cosmologie speculative tend a devenir un langage de capture universelle, capable d'absorber tout fait et toute objection au prix d'une inflation interpretative. La TRM refuse cette derive.
+
+Premiere non-pretention: la TRM ne se presente pas comme une science experimentale. Elle n'avance pas un protocole de verification instrumentale de l'existence des branches, du champ ou des passages. Son registre est ontologique, dynamique, phenomenologique et methodologique. Lui demander ce qu'elle ne revendique pas n'est pas la refuter; c'est simplement reconnaitre la difference des regimes de validite.
+
+Deuxieme non-pretention: la TRM ne promet pas la maitrise souveraine des trajectoires. Les notions de resonance, convergence, attracteur et bascule n'autorisent pas une illusion de puissance illimitee. Le cout, l'inertie, la compensation et la localite maintiennent au contraire une structure forte de contraintes. La doctrine propose une orientation sous conditions, non une magie operationnelle.
+
+Troisieme non-pretention: la TRM ne remplace pas les disciplines specialisees. Une situation clinique releve d'abord du champ medical; une situation psychique peut requerir des cadres therapeutiques; une situation historique demande des methodes d'enquete propres; une situation juridique appelle des normes et procedures positives. La TRM peut offrir une lecture complementaire de coherence, mais elle ne doit pas court-circuiter les competences constitutives de ces domaines.
+
+Quatrieme non-pretention: la TRM ne justifie pas toutes les interpretations subjectives. Le fait qu'un sujet eprouve un signe, une intuition ou une sensation de pre-resonance ne suffit pas a valider doctrinalement son inference. Une lecture n'est recevable que si elle respecte les distinctions de plan, la contextualisation, la confrontation au noyau et la soutenabilite dans la duree. La doctrine ne sacralise pas l'impression immediate.
+
+Cinquieme non-pretention: la TRM ne confond pas coherence et valeur morale automatique. Une trajectoire peut paraitre stabilisee sans etre juste, et une resonance collective peut amplifier une orientation destructrice si l'examen ethique fait defaut. C'est pourquoi le Livre IV a du introduire une ethique de la coherence distincte de la seule efficacite dynamique.
+
+Sixieme non-pretention: la TRM ne pretend pas epuiser le reel. Elle organise un certain mode d'intelligibilite, mais elle ne convertit pas toute la richesse du monde en un vocabulaire unique. La pluralite des langages, des sciences, des symboliques et des experiences ne disparait pas dans la doctrine; elle est seulement rearticulee a partir d'une architecture de coherence particuliere.
+
+Philosophiquement, le chapitre 14 institue une ascese doctrinale. Savoir ce qu'une theorie ne dit pas est aussi important que savoir ce qu'elle dit. Cette retenue donne a la TRM une forme de maturite conceptuelle: elle ne gagne pas en legitimite par expansion indefinie, mais par precision de ses limites et de ses conditions d'usage.
+
+Cette clarification prepare le chapitre final. Une fois etablies la portee et les non-pretentions, il reste a affronter les objections majeures que la doctrine suscite et a y repondre de l'interieur. Le chapitre 15 traitera de ces objections et de leurs reponses internes.
+
+Appuis canoniques :
+- Principe XLV - Le Principe de Coherence Interne
+- Principe X - Le Principe de Causalite Contextuelle
+- Principe XV - Le Cout des Actions Extraordinaires
+- Principe XLVIII - Le Principe de Localite Relativiste
+
+Limites :
+Cette these ne dissout pas toutes les zones grises d'interpretation ni tous les conflits de frontiere entre cadres doctrinaux et cadres empiriques. Elle fournit une discipline negative de non-abus, non un mecanisme automatique de resolution de tous les cas limites.
+
+Transition :
+Les frontieres positives et negatives de la TRM etant maintenant explicitees, il faut examiner les critiques principales qu'on peut lui adresser. Le chapitre 15 repondra aux objections majeures et aux tensions internes de la doctrine.
+
+---
+
+## Chapitre 15 - Objections majeures et reponses internes
+These :
+La solidite philosophique de la TRM ne repose pas sur l'absence d'objections, mais sur sa capacite a les recevoir, a en distinguer les niveaux et a y repondre sans incoherence interne ni inflation defensive.
+
+Argumentation :
+Le traite ne peut s'achever sans affronter explicitement les critiques qu'une cosmologie speculative de ce type suscite necessairement. Une doctrine qui n'anticipe pas ses objections reste fragile; une doctrine qui les absorbe toutes indistinctement devient dogmatique. La TRM doit donc tenir une ligne plus exigeante: reconnaitre la legitimite de certaines objections, montrer la portee limitee d'autres, et clarifier ce que ses propres principes permettent reellement de soutenir.
+
+Premiere objection: la TRM serait invulnerable a la critique parce qu'elle pourrait reinterpreter tout contre-exemple a son avantage. Cette objection touche un risque reel de toute doctrine generalisante. La reponse interne consiste a rappeler que la TRM s'est donnee des contraintes de lecture, de contextualisation et de non-pretention. Tout ne peut pas etre reintegre de facon legitime; une interpretation qui viole la coherence interne, ignore les plans ou refuse la revision sort du cadre doctrinal lui-meme.
+
+Deuxieme objection: la TRM ne serait qu'une metaphore poetique sans valeur conceptuelle. La reponse interne est que son lexique n'est pas librement ornamental. Champ, noyau, resonance, convergence, inertie, compensation et attracteur definissent des fonctions precises dans une architecture ordonnee. La doctrine ne revendique pas la preuve experimentale, mais elle revendique une consistance conceptuelle et methodologique que ne possede pas une simple metaphore flottante.
+
+Troisieme objection: la TRM encouragerait un subjectivisme de validation, ou chacun pourrait baptiser "resonance" ce qu'il desire deja croire. Cette objection est partiellement justifiee si l'on supprime la discipline doctrinale. C'est pourquoi la TRM repond par l'exigence conjointe de clarte interieure, de cartographie, de confrontation au noyau, d'ethique de la coherence et d'incarnation soutenable. Le ressenti n'est pas aboli, mais il n'est jamais suffisant a lui seul.
+
+Quatrieme objection: la TRM risquerait de concurrencer indument les sciences, la psychologie ou la medecine. La reponse interne a deja ete preparee par le chapitre precedent: la doctrine n'occupe pas le meme regime de validite. Elle ne remplace pas les savoirs specialises; elle propose une lecture architectonique de coherence. Lorsqu'elle est correctement delimitee, la TRM n'entre pas en guerre de souverainete avec les autres champs; elle assume sa fonction propre.
+
+Cinquieme objection: la TRM pourrait servir a justifier des dynamiques collectives closes, auto-renforcees ou quasi-sectaires. Cette objection doit etre prise tres au serieux. La reponse interne ne consiste pas a la nier, mais a montrer que la doctrine contient deja des garde-fous: exigence de reversibilite critique, refus de l'immunisation interpretative, distinction entre resonance collective et conformisme, rappel constant des non-pretentions et responsabilite ethique. Une collectivite qui supprime ces garde-fous cesse d'appliquer la TRM avec rigueur.
+
+Sixieme objection: la TRM resterait trop large pour orienter reellement l'action. La reponse interne est que sa fonction n'est pas de fournir une recette uniforme, mais une grammaire d'orientation sous contraintes. Ce caractere non-mecanique peut etre percu comme une faiblesse; il constitue aussi sa fidelite au reel vecu, ou les decisions se prennent dans l'incertitude, les couts, les temporalites locales et les ecologies relationnelles.
+
+Ainsi comprises, les objections ne detruisent pas la doctrine; elles la forcent a gagner en precision. Une philosophie mature n'est pas celle qui se croit a l'abri de toute contestation, mais celle qui devient plus intelligible a mesure qu'elle se laisse interroger. La TRM sort renforcee non de la negation des critiques, mais de leur integration ordonnee.
+
+Philosophiquement, le chapitre final affirme que la verite doctrinale de la TRM est une verite de coherence exposee a l'examen, non une verite close sur elle-meme. En ce sens, le traite s'acheve sur une forme de discipline intellectuelle: penser avec la doctrine, mais aussi penser ses limites, ses tensions et ses conditions permanentes de rectification.
+
+Appuis canoniques :
+- Principe XLV - Le Principe de Coherence Interne
+- Principe XI - Le Principe d'Interpretation Subjective
+- Principe XXIX - Le Principe de Resonance Collective
+- Principe XII - Le Principe de Responsabilite
+
+Limites :
+Cette these ne pretend pas dissiper toutes les objections possibles ni convertir tous les lecteurs a la doctrine. Elle vise a montrer que la TRM peut soutenir un examen critique rigoureux sans perdre son intelligibilite propre.
+
+Transition :
+Le traite atteint ici sa cloture argumentative. La suite du travail releve des relectures transversales, des harmonisations editoriales et de la confrontation du texte complet a ses propres exigences de coherence.
+
+---
+
 ## Chantiers prioritaires
-1. Rediger le Chapitre 13 sur la portee de la TRM.
-2. Rediger le Chapitre 14 pour verrouiller les non-pretentions.
-3. Rediger le Chapitre 15 sur les objections majeures.
-4. Chapitres 1 a 12 rediges et valides.
+1. Consolider la relecture transversale des Livres IV et V.
+2. Harmoniser les transitions internes du traite complet.
+3. Lisser le niveau de densite argumentative entre chapitres.
+4. Chapitres 1 a 15 rediges et valides.
 
 ---
 
@@ -517,4 +626,7 @@ L'epistemologie de la navigation etant maintenant completee, il faut precisement
 - v1.1 : Chapitre 10 redige (Conditions de lecture doctrinale)
 - v1.2 : Chapitre 11 redige (Methodes: meditation, cartographie, incarnation)
 - v1.3 : Chapitre 12 redige (Ethique de la coherence)
-- v1.4 : [a completer]
+- v1.4 : Chapitre 13 redige (Ce que la TRM peut dire)
+- v1.5 : Chapitre 14 redige (Ce que la TRM ne pretend pas dire)
+- v1.6 : Chapitre 15 redige (Objections majeures et reponses internes)
+- v1.7 : traite complet a harmoniser
